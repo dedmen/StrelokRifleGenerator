@@ -37,10 +37,10 @@ AddMagazineWellToRifle("rhs_weap_M107", "CBA_50BMG_M107")
 Local $barrelLengths[4] = [406.4,508,609.6,660.4]
 Local $muzzleVelocities[4] = [750,780,790,794]
 Local $muzzleVelocityShifts[11] = [-26.55,-25.47,-22.85,-20.12,-16.98,-12.8,-7.64,-1.53,5.96,15.17,26.19]
-InsertAmmoTypeSeperate("M118LR (RHS)", "rhs_ammo_762x51_M118_Special_Ball", 7.823, 7, 0.243, 11.34, 31.496, $barrelLengths, $muzzleVelocities, $muzzleVelocityShifts)
+InsertAmmoTypeSeperate("M118LR (ACE/RHS)", "rhs_ammo_762x51_M118_Special_Ball", 7.823, 7, 0.243, 11.34, 31.496, $barrelLengths, $muzzleVelocities, $muzzleVelocityShifts)
 Local $barrelLengths[4] = [330.2,406.4,508,609.6]
 Local $muzzleVelocities[4] = [875,910,930,945]
-InsertAmmoTypeSeperate("M993 (RHS)", "rhs_ammo_762x51_M993_Ball", 7.823, 1, 0.359, 8.22946, 31.496, $barrelLengths, $muzzleVelocities, $muzzleVelocityShifts)
+InsertAmmoTypeSeperate("M993 AP (ACE/RHS)", "rhs_ammo_762x51_M993_Ball", 7.823, 1, 0.359, 8.22946, 31.496, $barrelLengths, $muzzleVelocities, $muzzleVelocityShifts)
 Local $barrelLengths[5] = [254,406.4,508,609.6,660.4]
 Local $muzzleVelocities[5] = [700,800,820,833,845]
 InsertAmmoTypeSeperate("M62 Tracer (RHS)", "rhs_ammo_762x51_M62_tracer", 7.823, 7, 0.2, 9.4608, 28.956, $barrelLengths, $muzzleVelocities, $muzzleVelocityShifts)
