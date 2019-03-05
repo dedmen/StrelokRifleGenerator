@@ -3,36 +3,22 @@
 	<CurrentRifle>0</CurrentRifle>
 	<Rifle>
 		<RifleName>M107 (RHS) [M8541A (low mount)]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>8.09538</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>15</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M33 Ball (RHS)</CartridgeName>
 			<BulletWeight_gr>646.9</BulletWeight_gr>
 			<BulletBC>0.67</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>2.31</bullet_length_inch>
@@ -66,7 +52,6 @@
 			<CartridgeName>Mk 211 HEIAP (RHS)</CartridgeName>
 			<BulletWeight_gr>647.9</BulletWeight_gr>
 			<BulletBC>0.67</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>2.31</bullet_length_inch>
@@ -101,36 +86,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M107 (RHS) [M8541A + AN/PVS-27]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>9.43705</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>15</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M33 Ball (RHS)</CartridgeName>
 			<BulletWeight_gr>646.9</BulletWeight_gr>
 			<BulletBC>0.67</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>2.31</bullet_length_inch>
@@ -164,7 +135,6 @@
 			<CartridgeName>Mk 211 HEIAP (RHS)</CartridgeName>
 			<BulletWeight_gr>647.9</BulletWeight_gr>
 			<BulletBC>0.67</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>2.31</bullet_length_inch>
@@ -199,36 +169,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M107 (RHS) [Mk. 4 ER/T 3.5-10x M3]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>6.81206</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>15</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M33 Ball (RHS)</CartridgeName>
 			<BulletWeight_gr>646.9</BulletWeight_gr>
 			<BulletBC>0.67</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>2.31</bullet_length_inch>
@@ -262,7 +218,6 @@
 			<CartridgeName>Mk 211 HEIAP (RHS)</CartridgeName>
 			<BulletWeight_gr>647.9</BulletWeight_gr>
 			<BulletBC>0.67</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>2.31</bullet_length_inch>
@@ -297,36 +252,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M107 (RHS) [Mk. 4 ER/T 6.5-20x M5]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>8.05016</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>15</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M33 Ball (RHS)</CartridgeName>
 			<BulletWeight_gr>646.9</BulletWeight_gr>
 			<BulletBC>0.67</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>2.31</bullet_length_inch>
@@ -360,7 +301,6 @@
 			<CartridgeName>Mk 211 HEIAP (RHS)</CartridgeName>
 			<BulletWeight_gr>647.9</BulletWeight_gr>
 			<BulletBC>0.67</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>2.31</bullet_length_inch>
@@ -395,36 +335,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M107 (RHS) [S+B 3-12x50 PM II]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>8.40996</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>15</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M33 Ball (RHS)</CartridgeName>
 			<BulletWeight_gr>646.9</BulletWeight_gr>
 			<BulletBC>0.67</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>2.31</bullet_length_inch>
@@ -458,7 +384,6 @@
 			<CartridgeName>Mk 211 HEIAP (RHS)</CartridgeName>
 			<BulletWeight_gr>647.9</BulletWeight_gr>
 			<BulletBC>0.67</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>2.31</bullet_length_inch>
@@ -493,36 +418,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M107 (RHS) [S+B 5-25x56 PM II]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>8.40996</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>15</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M33 Ball (RHS)</CartridgeName>
 			<BulletWeight_gr>646.9</BulletWeight_gr>
 			<BulletBC>0.67</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>2.31</bullet_length_inch>
@@ -556,7 +467,6 @@
 			<CartridgeName>Mk 211 HEIAP (RHS)</CartridgeName>
 			<BulletWeight_gr>647.9</BulletWeight_gr>
 			<BulletBC>0.67</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>2.31</bullet_length_inch>
@@ -591,36 +501,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M2010 ESR (RHS) [M8541A (low mount)]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>7.01179</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>10</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -654,7 +550,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -688,7 +583,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -722,7 +616,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -756,7 +649,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -790,7 +682,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -803,7 +694,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -816,7 +706,6 @@
 			<CartridgeName>.300WM Mk248 MOD 1 (RHS)</CartridgeName>
 			<BulletWeight_gr>220</BulletWeight_gr>
 			<BulletBC>0.31</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
@@ -851,36 +740,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M2010 ESR (RHS) [M8541A + AN/PVS-27]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>8.35346</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>10</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -914,7 +789,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -948,7 +822,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -982,7 +855,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -1016,7 +888,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -1050,7 +921,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -1063,7 +933,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -1076,7 +945,6 @@
 			<CartridgeName>.300WM Mk248 MOD 1 (RHS)</CartridgeName>
 			<BulletWeight_gr>220</BulletWeight_gr>
 			<BulletBC>0.31</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
@@ -1111,36 +979,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M2010 ESR (RHS) [Mk. 4 ER/T 3.5-10x M3]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>5.72847</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>10</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -1174,7 +1028,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -1208,7 +1061,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -1242,7 +1094,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -1276,7 +1127,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -1310,7 +1160,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -1323,7 +1172,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -1336,7 +1184,6 @@
 			<CartridgeName>.300WM Mk248 MOD 1 (RHS)</CartridgeName>
 			<BulletWeight_gr>220</BulletWeight_gr>
 			<BulletBC>0.31</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
@@ -1371,36 +1218,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M2010 ESR (RHS) [Mk. 4 ER/T 6.5-20x M5]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>6.96657</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>10</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -1434,7 +1267,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -1468,7 +1300,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -1502,7 +1333,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -1536,7 +1366,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -1570,7 +1399,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -1583,7 +1411,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -1596,7 +1423,6 @@
 			<CartridgeName>.300WM Mk248 MOD 1 (RHS)</CartridgeName>
 			<BulletWeight_gr>220</BulletWeight_gr>
 			<BulletBC>0.31</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
@@ -1631,36 +1457,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M2010 ESR (RHS) [S+B 3-12x50 PM II]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>7.32637</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>10</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -1694,7 +1506,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -1728,7 +1539,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -1762,7 +1572,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -1796,7 +1605,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -1830,7 +1638,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -1843,7 +1650,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -1856,7 +1662,6 @@
 			<CartridgeName>.300WM Mk248 MOD 1 (RHS)</CartridgeName>
 			<BulletWeight_gr>220</BulletWeight_gr>
 			<BulletBC>0.31</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
@@ -1891,36 +1696,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M2010 ESR (RHS) [S+B 5-25x56 PM II]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>7.32637</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>10</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -1954,7 +1745,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -1988,7 +1778,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -2022,7 +1811,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -2056,7 +1844,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -2090,7 +1877,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -2103,7 +1889,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -2116,7 +1901,6 @@
 			<CartridgeName>.300WM Mk248 MOD 1 (RHS)</CartridgeName>
 			<BulletWeight_gr>220</BulletWeight_gr>
 			<BulletBC>0.31</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
@@ -2151,36 +1935,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M24 SWS (RHS) [M8541A (low mount)]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>6.3279</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>11.25</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -2214,7 +1984,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -2248,7 +2017,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -2282,7 +2050,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -2316,7 +2083,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -2350,7 +2116,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -2363,7 +2128,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -2377,36 +2141,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M24 SWS (RHS) [M8541A + AN/PVS-27]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>7.66957</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>11.25</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -2440,7 +2190,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -2474,7 +2223,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -2508,7 +2256,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -2542,7 +2289,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -2576,7 +2322,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -2589,7 +2334,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -2603,36 +2347,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M24 SWS (RHS) [Mk. 4 ER/T 3.5-10x M3]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>5.04458</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>11.25</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -2666,7 +2396,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -2700,7 +2429,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -2734,7 +2462,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -2768,7 +2495,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -2802,7 +2528,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -2815,7 +2540,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -2829,36 +2553,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M24 SWS (RHS) [Mk. 4 ER/T 6.5-20x M5]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>6.28268</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>11.25</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -2892,7 +2602,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -2926,7 +2635,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -2960,7 +2668,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -2994,7 +2701,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -3028,7 +2734,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -3041,7 +2746,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -3055,36 +2759,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M24 SWS (RHS) [S+B 3-12x50 PM II]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>6.64248</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>11.25</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -3118,7 +2808,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -3152,7 +2841,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -3186,7 +2874,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -3220,7 +2907,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -3254,7 +2940,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -3267,7 +2952,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -3281,36 +2965,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M24 SWS (RHS) [S+B 5-25x56 PM II]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>6.64248</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>11.25</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -3344,7 +3014,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -3378,7 +3047,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -3412,7 +3080,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -3446,7 +3113,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -3480,7 +3146,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -3493,7 +3158,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -3507,36 +3171,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M40A5 (RHS) [M8541A (low mount)]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>6.37267</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>12</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -3549,7 +3199,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -3562,7 +3211,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -3575,7 +3223,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -3588,7 +3235,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -3601,7 +3247,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -3614,7 +3259,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -3628,36 +3272,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M40A5 (RHS) [M8541A + AN/PVS-27]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>7.71434</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>12</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -3670,7 +3300,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -3683,7 +3312,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -3696,7 +3324,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -3709,7 +3336,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -3722,7 +3348,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -3735,7 +3360,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -3749,36 +3373,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M40A5 (RHS) [Mk. 4 ER/T 3.5-10x M3]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>5.08935</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>12</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -3791,7 +3401,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -3804,7 +3413,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -3817,7 +3425,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -3830,7 +3437,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -3843,7 +3449,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -3856,7 +3461,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -3870,36 +3474,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M40A5 (RHS) [Mk. 4 ER/T 6.5-20x M5]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>6.32745</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>12</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -3912,7 +3502,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -3925,7 +3514,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -3938,7 +3526,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -3951,7 +3538,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -3964,7 +3550,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -3977,7 +3562,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -3991,36 +3575,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M40A5 (RHS) [S+B 3-12x50 PM II]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>6.68725</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>12</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -4033,7 +3603,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -4046,7 +3615,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -4059,7 +3627,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -4072,7 +3639,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -4085,7 +3651,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -4098,7 +3663,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -4112,36 +3676,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M40A5 (RHS) [S+B 5-25x56 PM II]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>6.68725</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>12</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -4154,7 +3704,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -4167,7 +3716,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -4180,7 +3728,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -4193,7 +3740,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -4206,7 +3752,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -4219,7 +3764,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -4233,36 +3777,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M82A1 (RHS) [M8541A (low mount)]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>8.09538</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>15</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M33 Ball (RHS)</CartridgeName>
 			<BulletWeight_gr>646.9</BulletWeight_gr>
 			<BulletBC>0.67</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>2.31</bullet_length_inch>
@@ -4296,7 +3826,6 @@
 			<CartridgeName>Mk 211 HEIAP (RHS)</CartridgeName>
 			<BulletWeight_gr>647.9</BulletWeight_gr>
 			<BulletBC>0.67</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>2.31</bullet_length_inch>
@@ -4331,36 +3860,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M82A1 (RHS) [M8541A + AN/PVS-27]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>9.43705</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>15</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M33 Ball (RHS)</CartridgeName>
 			<BulletWeight_gr>646.9</BulletWeight_gr>
 			<BulletBC>0.67</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>2.31</bullet_length_inch>
@@ -4394,7 +3909,6 @@
 			<CartridgeName>Mk 211 HEIAP (RHS)</CartridgeName>
 			<BulletWeight_gr>647.9</BulletWeight_gr>
 			<BulletBC>0.67</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>2.31</bullet_length_inch>
@@ -4429,36 +3943,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M82A1 (RHS) [Mk. 4 ER/T 3.5-10x M3]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>6.81206</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>15</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M33 Ball (RHS)</CartridgeName>
 			<BulletWeight_gr>646.9</BulletWeight_gr>
 			<BulletBC>0.67</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>2.31</bullet_length_inch>
@@ -4492,7 +3992,6 @@
 			<CartridgeName>Mk 211 HEIAP (RHS)</CartridgeName>
 			<BulletWeight_gr>647.9</BulletWeight_gr>
 			<BulletBC>0.67</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>2.31</bullet_length_inch>
@@ -4527,36 +4026,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M82A1 (RHS) [Mk. 4 ER/T 6.5-20x M5]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>8.05016</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>15</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M33 Ball (RHS)</CartridgeName>
 			<BulletWeight_gr>646.9</BulletWeight_gr>
 			<BulletBC>0.67</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>2.31</bullet_length_inch>
@@ -4590,7 +4075,6 @@
 			<CartridgeName>Mk 211 HEIAP (RHS)</CartridgeName>
 			<BulletWeight_gr>647.9</BulletWeight_gr>
 			<BulletBC>0.67</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>2.31</bullet_length_inch>
@@ -4625,36 +4109,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M82A1 (RHS) [S+B 3-12x50 PM II]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>8.40996</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>15</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M33 Ball (RHS)</CartridgeName>
 			<BulletWeight_gr>646.9</BulletWeight_gr>
 			<BulletBC>0.67</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>2.31</bullet_length_inch>
@@ -4688,7 +4158,6 @@
 			<CartridgeName>Mk 211 HEIAP (RHS)</CartridgeName>
 			<BulletWeight_gr>647.9</BulletWeight_gr>
 			<BulletBC>0.67</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>2.31</bullet_length_inch>
@@ -4723,36 +4192,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>M82A1 (RHS) [S+B 5-25x56 PM II]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>8.40996</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>15</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M33 Ball (RHS)</CartridgeName>
 			<BulletWeight_gr>646.9</BulletWeight_gr>
 			<BulletBC>0.67</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>2.31</bullet_length_inch>
@@ -4786,7 +4241,6 @@
 			<CartridgeName>Mk 211 HEIAP (RHS)</CartridgeName>
 			<BulletWeight_gr>647.9</BulletWeight_gr>
 			<BulletBC>0.67</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>2.31</bullet_length_inch>
@@ -4821,36 +4275,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>Mk 11 Mod 0 (EC) (RHS) [M8541A (low mount)]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>7.04588</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>11.25</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -4884,7 +4324,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -4918,7 +4357,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -4952,7 +4390,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -4986,7 +4423,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -5020,7 +4456,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -5054,7 +4489,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -5089,36 +4523,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>Mk 11 Mod 0 (EC) (RHS) [M8541A + AN/PVS-27]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>8.38755</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>11.25</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -5152,7 +4572,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -5186,7 +4605,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -5220,7 +4638,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -5254,7 +4671,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -5288,7 +4704,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -5322,7 +4737,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -5357,36 +4771,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>Mk 11 Mod 0 (EC) (RHS) [Mk. 4 ER/T 3.5-10x M3]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>5.76256</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>11.25</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -5420,7 +4820,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -5454,7 +4853,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -5488,7 +4886,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -5522,7 +4919,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -5556,7 +4952,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -5590,7 +4985,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -5625,36 +5019,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>Mk 11 Mod 0 (EC) (RHS) [Mk. 4 ER/T 6.5-20x M5]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>7.00066</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>11.25</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -5688,7 +5068,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -5722,7 +5101,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -5756,7 +5134,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -5790,7 +5167,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -5824,7 +5200,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -5858,7 +5233,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -5893,36 +5267,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>Mk 11 Mod 0 (EC) (RHS) [S+B 3-12x50 PM II]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>7.36046</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>11.25</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -5956,7 +5316,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -5990,7 +5349,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -6024,7 +5382,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -6058,7 +5415,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -6092,7 +5448,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -6126,7 +5481,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -6161,36 +5515,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>Mk 11 Mod 0 (EC) (RHS) [S+B 5-25x56 PM II]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>7.36046</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>11.25</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -6224,7 +5564,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -6258,7 +5597,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -6292,7 +5630,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -6326,7 +5663,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -6360,7 +5696,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -6394,7 +5729,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -6429,36 +5763,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>Mk 11 Mod 0 (RHS) [M8541A (low mount)]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>7.04061</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>11.25</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -6492,7 +5812,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -6526,7 +5845,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -6560,7 +5878,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -6594,7 +5911,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -6628,7 +5944,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -6641,7 +5956,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -6655,36 +5969,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>Mk 11 Mod 0 (RHS) [M8541A + AN/PVS-27]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>8.38228</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>11.25</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -6718,7 +6018,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -6752,7 +6051,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -6786,7 +6084,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -6820,7 +6117,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -6854,7 +6150,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -6867,7 +6162,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -6881,36 +6175,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>Mk 11 Mod 0 (RHS) [Mk. 4 ER/T 3.5-10x M3]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>5.75729</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>11.25</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -6944,7 +6224,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -6978,7 +6257,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -7012,7 +6290,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -7046,7 +6323,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -7080,7 +6356,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -7093,7 +6368,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -7107,36 +6381,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>Mk 11 Mod 0 (RHS) [Mk. 4 ER/T 6.5-20x M5]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>6.99539</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>11.25</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -7170,7 +6430,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -7204,7 +6463,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -7238,7 +6496,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -7272,7 +6529,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -7306,7 +6562,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -7319,7 +6574,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -7333,36 +6587,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>Mk 11 Mod 0 (RHS) [S+B 3-12x50 PM II]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>7.35519</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>11.25</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -7396,7 +6636,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -7430,7 +6669,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -7464,7 +6702,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -7498,7 +6735,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -7532,7 +6768,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -7545,7 +6780,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
@@ -7559,36 +6793,22 @@
 	</Rifle>
 	<Rifle>
 		<RifleName>Mk 11 Mod 0 (RHS) [S+B 5-25x56 PM II]</RifleName>
-		<ZeroDistance>100</ZeroDistance>
 		<ScopeHeight>7.35519</ScopeHeight>
-		<ScopeClickVert>0.1</ScopeClickVert>
-		<ScopeClickHor>0.1</ScopeClickHor>
-		<Reticle>24</Reticle>
+		<ScopeClickVert>0.343774677078165</ScopeClickVert>
+		<ScopeClickHor>0.343774677078165</ScopeClickHor>
 		<click_units>1</click_units>
-		<min_magnification>3</min_magnification>
-		<max_magnification>12</max_magnification>
-		<true_magnification>12</true_magnification>
-		<first_focal>false</first_focal>
 		<TwistRate>11.25</TwistRate>
 		<TwistLeft>false</TwistLeft>
-		<m_EndDistance>2200</m_EndDistance>
-		<m_StartDistance>100</m_StartDistance>
-		<m_show_speed>true</m_show_speed>
-		<m_show_energy>true</m_show_energy>
-		<m_show_time>true</m_show_time>
 		<m_show_path_cm>false</m_show_path_cm>
 		<m_show_path_moa>false</m_show_path_moa>
-		<m_show_path_td>true</m_show_path_td>
 		<m_show_path_click>false</m_show_path_click>
 		<m_show_wind_cm>false</m_show_wind_cm>
 		<m_show_wind_moa>false</m_show_wind_moa>
-		<m_show_wind_td>true</m_show_wind_td>
 		<m_show_wind_click>false</m_show_wind_click>
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -7622,7 +6842,6 @@
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -7656,7 +6875,6 @@
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -7690,7 +6908,6 @@
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
 			<BulletBC>0.2</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
@@ -7724,7 +6941,6 @@
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
 			<BulletBC>0.243</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -7758,7 +6974,6 @@
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
 			<BulletBC>0.377</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
@@ -7771,7 +6986,6 @@
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
 			<BulletBC>0.235</BulletBC>
-			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>

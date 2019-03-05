@@ -179,9 +179,9 @@ Func XMLAddRifleCartridge(ByRef $oXMLDoc, ByRef $cartridgeElement, $ammoType, $a
     $newNode.text = String($ACE_ballisticCoefficient)
     $cartridgeElement.appendChild($newNode)
 
-    Local $newNode = $oXMLDoc.createElement("BulletBCSpeed")
-    $newNode.text = 0
-    $cartridgeElement.appendChild($newNode)
+    ;Local $newNode = $oXMLDoc.createElement("BulletBCSpeed")
+    ;$newNode.text = 0
+    ;$cartridgeElement.appendChild($newNode)
 
 
     ;Local $newNode = $oXMLDoc.createElement("BulletBC2")
@@ -351,9 +351,10 @@ Func XMLAddRifleScopeCombi(ByRef $oXMLDoc, ByRef $rifleElement, $rifleID, $scope
     $newNode.text = $name &" ["&$scopeName&"]"
     $rifleElement.appendChild($newNode)
 
-    Local $newNode = $oXMLDoc.createElement("ZeroDistance")
-    $newNode.text = 100
-    $rifleElement.appendChild($newNode)
+    ;100m is already default. And ACE also has 100m default.
+    ;Local $newNode = $oXMLDoc.createElement("ZeroDistance")
+    ;$newNode.text = 100
+    ;$rifleElement.appendChild($newNode)
 
     Local $newNode = $oXMLDoc.createElement("ScopeHeight")
     $newNode.text = String($ace_RailHeightAboveBore + $ACE_ScopeHeightAboveRail)
@@ -367,29 +368,30 @@ Func XMLAddRifleScopeCombi(ByRef $oXMLDoc, ByRef $rifleElement, $rifleID, $scope
     $newNode.text = String(0.1)
     $rifleElement.appendChild($newNode)
 
-    Local $newNode = $oXMLDoc.createElement("Reticle") ;#TODO
-    $newNode.text = 24
-    $rifleElement.appendChild($newNode)
+    ;Local $newNode = $oXMLDoc.createElement("Reticle") ;#TODO
+    ;$newNode.text = 24
+    ;$rifleElement.appendChild($newNode)
 
     Local $newNode = $oXMLDoc.createElement("click_units") ;#TODO
     $newNode.text = 1
     $rifleElement.appendChild($newNode)
 
-    Local $newNode = $oXMLDoc.createElement("min_magnification") ;#TODO
-    $newNode.text = 3
-    $rifleElement.appendChild($newNode)
+    ;Local $newNode = $oXMLDoc.createElement("min_magnification") ;#TODO
+    ;$newNode.text = 3
+    ;$rifleElement.appendChild($newNode)
 
-    Local $newNode = $oXMLDoc.createElement("max_magnification") ;#TODO
-    $newNode.text = 12
-    $rifleElement.appendChild($newNode)
+    ;Local $newNode = $oXMLDoc.createElement("max_magnification") ;#TODO
+    ;$newNode.text = 12
+    ;$rifleElement.appendChild($newNode)
 
-    Local $newNode = $oXMLDoc.createElement("true_magnification") ;#TODO
-    $newNode.text = 12
-    $rifleElement.appendChild($newNode)
+    ;Local $newNode = $oXMLDoc.createElement("true_magnification") ;#TODO
+    ;$newNode.text = 12
+    ;$rifleElement.appendChild($newNode)
 
-    Local $newNode = $oXMLDoc.createElement("first_focal") ;#TODO
-    $newNode.text = "false"
-    $rifleElement.appendChild($newNode)
+    ;While we don't actually configure correct reticles, we don't really need this
+    ;Local $newNode = $oXMLDoc.createElement("first_focal") ;#TODO
+    ;$newNode.text = "false"
+    ;$rifleElement.appendChild($newNode)
 
     Local $newNode = $oXMLDoc.createElement("TwistRate") ;#TODO
     $newNode.text = String(Abs($ace_barrelTwist / 25.4))
@@ -403,57 +405,69 @@ Func XMLAddRifleScopeCombi(ByRef $oXMLDoc, ByRef $rifleElement, $rifleID, $scope
     EndIf
     $rifleElement.appendChild($newNode)
 
-    Local $newNode = $oXMLDoc.createElement("m_EndDistance") ;#TODO
-    $newNode.text = 2200
-    $rifleElement.appendChild($newNode)
+    ;This is the start/end distance for the table generation. Can just leave this at defalt 100m/800m
+    ;Local $newNode = $oXMLDoc.createElement("m_EndDistance") ;#TODO
+    ;$newNode.text = 2200
+    ;$rifleElement.appendChild($newNode)
 
-    Local $newNode = $oXMLDoc.createElement("m_StartDistance") ;#TODO
-    $newNode.text = 100
-    $rifleElement.appendChild($newNode)
+    ;Local $newNode = $oXMLDoc.createElement("m_StartDistance") ;#TODO
+    ;$newNode.text = 100
+    ;$rifleElement.appendChild($newNode)
 
-    Local $newNode = $oXMLDoc.createElement("m_show_speed") ;#TODO
-    $newNode.text = "true"
-    $rifleElement.appendChild($newNode)
+    ;Enabled by default
+    ;Local $newNode = $oXMLDoc.createElement("m_show_speed") ;#TODO
+    ;$newNode.text = "true"
+    ;$rifleElement.appendChild($newNode)
 
-    Local $newNode = $oXMLDoc.createElement("m_show_energy") ;#TODO
-    $newNode.text = "true"
-    $rifleElement.appendChild($newNode)
+    ;Enabled by default
+    ;Local $newNode = $oXMLDoc.createElement("m_show_energy") ;#TODO
+    ;$newNode.text = "true"
+    ;$rifleElement.appendChild($newNode)
 
-    Local $newNode = $oXMLDoc.createElement("m_show_time") ;#TODO
-    $newNode.text = "true"
-    $rifleElement.appendChild($newNode)
+    ;Enabled by default
+    ;Local $newNode = $oXMLDoc.createElement("m_show_time") ;#TODO
+    ;$newNode.text = "true"
+    ;$rifleElement.appendChild($newNode)
 
+    ;Enabled by default, We only use MRAD though so we don't need this
     Local $newNode = $oXMLDoc.createElement("m_show_path_cm") ;#TODO
     $newNode.text = "false"
     $rifleElement.appendChild($newNode)
 
+    ;Enabled by default, We only use MRAD though so we don't need this
     Local $newNode = $oXMLDoc.createElement("m_show_path_moa") ;#TODO
     $newNode.text = "false"
     $rifleElement.appendChild($newNode)
 
-    Local $newNode = $oXMLDoc.createElement("m_show_path_td") ;#TODO
-    $newNode.text = "true"
-    $rifleElement.appendChild($newNode)
+    ;Enabled by default, and we use MRAD. TD==MRAD
+    ;Local $newNode = $oXMLDoc.createElement("m_show_path_td") ;#TODO
+    ;$newNode.text = "true"
+    ;$rifleElement.appendChild($newNode)
 
+    ;Enabled by default, though I personally don't want this
     Local $newNode = $oXMLDoc.createElement("m_show_path_click") ;#TODO
     $newNode.text = "false"
     $rifleElement.appendChild($newNode)
 
+    ;Enabled by default, We only use MRAD though so we don't need this
     Local $newNode = $oXMLDoc.createElement("m_show_wind_cm") ;#TODO
     $newNode.text = "false"
     $rifleElement.appendChild($newNode)
 
+    ;Enabled by default, We only use MRAD though so we don't need this
     Local $newNode = $oXMLDoc.createElement("m_show_wind_moa") ;#TODO
     $newNode.text = "false"
     $rifleElement.appendChild($newNode)
 
-    Local $newNode = $oXMLDoc.createElement("m_show_wind_td") ;#TODO
-    $newNode.text = "true"
-    $rifleElement.appendChild($newNode)
+    ;Local $newNode = $oXMLDoc.createElement("m_show_wind_td") ;#TODO
+    ;$newNode.text = "true"
+    ;$rifleElement.appendChild($newNode)
 
+    ;Enabled by default, though I personally don't want this
     Local $newNode = $oXMLDoc.createElement("m_show_wind_click") ;#TODO
     $newNode.text = "false"
     $rifleElement.appendChild($newNode)
+
     $query = "SELECT ammoTypes.id FROM rifleMagazineWells" & @CRLF & _
     "INNER JOIN magazineWells ON rifleMagazineWells.magazineWell = magazineWells.id" & @CRLF & _
     "INNER JOIN ammoMagWells ON ammoMagWells.magWell = magazineWells.id" & @CRLF & _
