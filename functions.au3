@@ -360,12 +360,13 @@ Func XMLAddRifleScopeCombi(ByRef $oXMLDoc, ByRef $rifleElement, $rifleID, $scope
     $newNode.text = String($ace_RailHeightAboveBore + $ACE_ScopeHeightAboveRail)
     $rifleElement.appendChild($newNode)
 
+    ;Default is 0.073mrad so we need to set this. Value is in MOA
     Local $newNode = $oXMLDoc.createElement("ScopeClickVert") ;#TODO
-    $newNode.text = String(0.1)
+    $newNode.text = String(0.3437746770781649)
     $rifleElement.appendChild($newNode)
 
     Local $newNode = $oXMLDoc.createElement("ScopeClickHor") ;#TODO
-    $newNode.text = String(0.1)
+    $newNode.text = String(0.3437746770781649)
     $rifleElement.appendChild($newNode)
 
     ;Local $newNode = $oXMLDoc.createElement("Reticle") ;#TODO
