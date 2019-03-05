@@ -3,6 +3,8 @@
 #include <Array.au3>
 #include "XML.au3"
 
+$logInterpolate = false;Log velocity interpolation
+
 Local $SQLiteDllName
 
 If @AutoItX64 Then 
@@ -140,6 +142,57 @@ Func AddAmmoToMagazineWell($magazineWellName, $ammoType)
    _SQLite_Exec(-1, $query)
 EndFunc
 
+Func LinearInterpolation($x, $a, $b)
+	Return $a*(1-$x)+$b*$x
+EndFunc
+
+Func GetMuzzleVelocitiesForBarrelLength($ammoType, $barrelLength)
+    $query = "SELECT ammoVelocityShift.temperature, ammoMuzzleVel.ACE_muzzleVelocity + ammoVelocityShift.ACE_ammoTempMuzzleVelocityShift" & @CRLF & _
+        "FROM ammoTypes" & @CRLF & _
+        "INNER JOIN ammoVelocityShift ON ammoVelocityShift.id = ammoTypes.id" & @CRLF & _
+        "INNER JOIN ammoMuzzleVel ON ammoMuzzleVel.id = ammoTypes.id" & @CRLF & _
+        "WHERE" & @CRLF & _
+        "ammoMuzzleVel.ACE_barrelLength = " & $barrelLength  & @CRLF & _
+        " AND ammoTypes.id = "&$ammoType& _
+        " AND ammoVelocityShift.temperature IN (-10,0,10,20,25)"
+
+	Local $hQuery
+    Local $result[0][2]
+    Local $aRow
+    _SQLite_Query(-1, $query, $hQuery) ; the query
+    While _SQLite_FetchData($hQuery, $aRow) = $SQLITE_OK
+        Local $row[1][2] = [[$aRow[0], $aRow[1]]]
+        _ArrayAdd($result, $row)
+    WEnd
+    Return $result
+EndFunc
+
+
+
+Func XMLAddThermalProfiles(ByRef $oXMLDoc, $thermoNode, $muzzleVelocities)
+    For $row=0 To UBound($muzzleVelocities)-1
+        $temp = $muzzleVelocities[$row][0]
+        $speed = $muzzleVelocities[$row][1]
+
+        Local $thermoRow = $oXMLDoc.createElement("TermoRow")
+
+        ;If (Not $speedset) Then
+        ;    $bulletSpeedNode.text = String($speed)
+        ;    $bulletTempNode.text = String($temp)
+        ;    $speedset = true
+        ;EndIf
+        Local $newNode = $oXMLDoc.createElement("TS_Temperature")
+        $newNode.text = String($temp)
+        $thermoRow.appendChild($newNode)
+
+        Local $newNode = $oXMLDoc.createElement("TS_Speed")
+        $newNode.text = String($speed)
+        $thermoRow.appendChild($newNode)
+
+        $thermoNode.appendChild($thermoRow)
+    Next
+EndFunc
+
 
 Func XMLAddRifleCartridge(ByRef $oXMLDoc, ByRef $cartridgeElement, $ammoType, $ace_barrelLength)
 
@@ -263,38 +316,81 @@ Func XMLAddRifleCartridge(ByRef $oXMLDoc, ByRef $cartridgeElement, $ammoType, $a
     ;$newNode.text = 1
     ;$cartridgeElement.appendChild($newNode)
 
-    $query = "SELECT ammoVelocityShift.temperature, ammoMuzzleVel.ACE_muzzleVelocity + ammoVelocityShift.ACE_ammoTempMuzzleVelocityShift" & @CRLF & _
-        "FROM ammoTypes" & @CRLF & _
-        "INNER JOIN ammoVelocityShift ON ammoVelocityShift.id = ammoTypes.id" & @CRLF & _
-        "INNER JOIN ammoMuzzleVel ON ammoMuzzleVel.id = ammoTypes.id" & @CRLF & _
-        "WHERE" & @CRLF & _
-        "ammoMuzzleVel.ACE_barrelLength = " & $ace_barrelLength  & @CRLF & _
-        " AND ammoTypes.id = "&$ammoType& _
-        " AND ammoVelocityShift.temperature IN (-10,0,10,20,25)"
+    ;$speedset = false
+    $muzzleVelocities = GetMuzzleVelocitiesForBarrelLength($ammoType, $ace_barrelLength)
+    Local $thermoNode = $oXMLDoc.createElement("TermoSensitivity")
 
-    Local $thermoNode = $oXMLDoc.createElement("TermoSensitivity") ;#TODO
-	Local $hQuery
-    _SQLite_Query(-1, $query, $hQuery) ; the query
-    ;$speedset = false;
-    While _SQLite_FetchData($hQuery, $aRow) = $SQLITE_OK
-        Local $thermoRow = $oXMLDoc.createElement("TermoRow") ;#TODO
+    If (UBound($muzzleVelocities) > 0) Then
+        XMLAddThermalProfiles($oXMLDoc, $thermoNode, $muzzleVelocities)
+    Else ; No matching velocities for barrel length, need to interpolate
 
-        ;If (Not $speedset) Then
-        ;    $bulletSpeedNode.text = String($aRow[1])
-        ;    $bulletTempNode.text = String($aRow[0])
-        ;    $speedset = true
-        ;EndIf
+        ;Get all barrel lengths
+        ConsoleWrite("Have to interpolate for "&$classname&@CRLF)
 
-        Local $newNode = $oXMLDoc.createElement("TS_Temperature")
-        $newNode.text = String($aRow[0])
-        $thermoRow.appendChild($newNode)
+        $query = "SELECT ammoMuzzleVel.ACE_barrelLength FROM ammoMuzzleVel WHERE ammoMuzzleVel.id = "&$ammoType
+        Local $barrelLengths[0]
 
-        Local $newNode = $oXMLDoc.createElement("TS_Speed")
-        $newNode.text = String($aRow[1])
-        $thermoRow.appendChild($newNode)
+        Local $hQuery
+        _SQLite_Query(-1, $query, $hQuery) ; the query
+        While _SQLite_FetchData($hQuery, $aRow) = $SQLITE_OK
+            _ArrayAdd($barrelLengths, $aRow[0])
+        WEnd
 
-        $thermoNode.appendChild($thermoRow)
-    WEnd
+        _ArraySort($barrelLengths)
+        ;_ArrayDisplay($barrelLengths)
+        $lowerBarrelLength = -1
+        $upperBarrelLength = -1
+
+        For $length In $barrelLengths
+            if ($length < $ace_barrelLength) Then $lowerBarrelLength = $length
+            if ($length > $ace_barrelLength) Then
+                $upperBarrelLength = $length
+                ExitLoop
+            EndIf
+        Next
+
+        if ($lowerBarrelLength == -1) Then ;There is no smaller one, so we just use the values from the smallest
+            If ($logInterpolate) Then ConsoleWrite("Can't interpolate to "&$ace_barrelLength&". Using lowest value: "&$upperBarrelLength&@CRLF)
+            $muzzleVelocities = GetMuzzleVelocitiesForBarrelLength($ammoType, $upperBarrelLength)
+            XMLAddThermalProfiles($oXMLDoc, $thermoNode, $muzzleVelocities)
+        ElseIf ($upperBarrelLength == -1) Then ;There is no bigger one, so we just use the biggest
+            If ($logInterpolate) Then ConsoleWrite("Can't interpolate to "&$ace_barrelLength&". Using highest value: "&$lowerBarrelLength&@CRLF)
+            $muzzleVelocities = GetMuzzleVelocitiesForBarrelLength($ammoType, $lowerBarrelLength)
+            XMLAddThermalProfiles($oXMLDoc, $thermoNode, $muzzleVelocities)
+        Else
+            If ($logInterpolate) Then ConsoleWrite("Length interpolate between "&$lowerBarrelLength&"->"&$upperBarrelLength&" to "&$ace_barrelLength&@CRLF)
+
+            $distFromStart = $ace_barrelLength - $lowerBarrelLength
+            $distTotal = $upperBarrelLength - $lowerBarrelLength
+            $distPerc = $distFromStart/$distTotal
+            If ($logInterpolate) Then ConsoleWrite("Interpolate at "&$distPerc&@CRLF)
+
+            $muzzleVelocitiesLower = GetMuzzleVelocitiesForBarrelLength($ammoType, $lowerBarrelLength)
+            $muzzleVelocitiesUpper = GetMuzzleVelocitiesForBarrelLength($ammoType, $upperBarrelLength)
+
+            ;_ArrayDisplay($muzzleVelocitiesLower, "lowervel")
+            ;_ArrayDisplay($muzzleVelocitiesUpper, "uppervel")
+            Local $muzzleVelocities[0][2]
+            Local $row
+            For $row=0 To UBound($muzzleVelocitiesLower)-1
+                $temp = $muzzleVelocitiesLower[$row][0]
+                $speedLower = $muzzleVelocitiesLower[$row][1]
+                $speedUpper = $muzzleVelocitiesUpper[$row][1]
+                $speed = LinearInterpolation($distPerc, $speedLower, $speedUpper)
+                ;ConsoleWrite("Interpolate "&$speedLower&"->"&$speedUpper&" to "&$speed&@CRLF)
+                Local $pair[1][2] = [[$temp,$speed]]
+                _ArrayAdd($muzzleVelocities, $pair)
+                ;_ArrayDisplay($muzzleVelocities, "muzzlevel")
+            Next
+
+            ;_ArrayDisplay($muzzleVelocities, "interpolated")
+            XMLAddThermalProfiles($oXMLDoc, $thermoNode, $muzzleVelocities)
+        EndIf
+
+
+    EndIf
+
+
     $cartridgeElement.appendChild($thermoNode)
 
     ;With same_atm=true all these are ignored anyway

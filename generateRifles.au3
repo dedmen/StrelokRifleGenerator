@@ -110,13 +110,15 @@ AddAmmoToMagazineWell("CBA_300WM_AICS", "HLC_300WM_FMJ")
 InsertAmmoTypeSeperate(".300WM Tracer AWM (HLC)", "HLC_300WM_Tracer", 7.823, 7, 0.250, 13.0, 37.821, $barrelLengths, $muzzleVelocities, $muzzleVelocityShifts)
 AddAmmoToMagazineWell("CBA_300WM_AICS", "HLC_300WM_Tracer")
 
-Local $muzzleVelocities[2] = [670, 940] ;This has barrel length 660 instead of 660.4, screw that
+Local $barrelLengths[2] = [305, 660]
+Local $muzzleVelocities[2] = [670, 940]
 InsertAmmoTypeSeperate(".300WM Soft-Point AWM (HLC)", "HLC_300WM_BTSP", 7.823, 7, 0.268, 12.31179, 35.1282, $barrelLengths, $muzzleVelocities, $muzzleVelocityShifts)
 AddAmmoToMagazineWell("CBA_300WM_AICS", "HLC_300WM_BTSP")
 ;Yes this is the same even though this is supposed to be subsonic
 InsertAmmoTypeSeperate(".300WM Subsonic AWM (HLC)", "HLC_300WM_S_BT", 7.823, 7, 0.268, 12.31179, 35.1282, $barrelLengths, $muzzleVelocities, $muzzleVelocityShifts)
 AddAmmoToMagazineWell("CBA_300WM_AICS", "HLC_300WM_S_BT")
 
+Local $barrelLengths[2] = [305, 660.4]
 ;MEN DM131 AP (Tungsten-Carbide penetrator in a solid aluminium slug)
 Local $muzzleVelocities[2] = [614, 861]
 InsertAmmoTypeSeperate(".300WM AP AWM (HLC)", "HLC_300WM_AP", 7.823, 7, 0.268, 12.8, 37.821, $barrelLengths, $muzzleVelocities, $muzzleVelocityShifts)

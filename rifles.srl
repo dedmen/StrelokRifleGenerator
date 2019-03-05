@@ -23,7 +23,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>841.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>842.8</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>844.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>846.7</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>848.4</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhsusf_B_300winmag</CartridgeNotes>
 		</Cartridge>
@@ -200,7 +221,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>841.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>842.8</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>844.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>846.7</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>848.4</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_BTHP</CartridgeNotes>
 		</Cartridge>
@@ -229,7 +271,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>841.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>842.8</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>844.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>846.7</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>848.4</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhsusf_B_300winmag</CartridgeNotes>
 		</Cartridge>
@@ -406,7 +469,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>841.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>842.8</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>844.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>846.7</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>848.4</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_BTHP</CartridgeNotes>
 		</Cartridge>
@@ -435,7 +519,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>841.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>842.8</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>844.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>846.7</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>848.4</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhsusf_B_300winmag</CartridgeNotes>
 		</Cartridge>
@@ -612,7 +717,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>841.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>842.8</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>844.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>846.7</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>848.4</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_BTHP</CartridgeNotes>
 		</Cartridge>
@@ -641,7 +767,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>841.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>842.8</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>844.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>846.7</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>848.4</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhsusf_B_300winmag</CartridgeNotes>
 		</Cartridge>
@@ -818,7 +965,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>841.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>842.8</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>844.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>846.7</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>848.4</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_BTHP</CartridgeNotes>
 		</Cartridge>
@@ -847,7 +1015,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>841.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>842.8</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>844.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>846.7</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>848.4</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhsusf_B_300winmag</CartridgeNotes>
 		</Cartridge>
@@ -1024,7 +1213,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>841.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>842.8</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>844.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>846.7</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>848.4</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_BTHP</CartridgeNotes>
 		</Cartridge>
@@ -1053,7 +1263,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>841.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>842.8</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>844.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>846.7</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>848.4</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhsusf_B_300winmag</CartridgeNotes>
 		</Cartridge>
@@ -1230,7 +1461,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>841.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>842.8</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>844.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>846.7</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>848.4</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_BTHP</CartridgeNotes>
 		</Cartridge>
@@ -1259,7 +1511,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>871.82125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>872.72125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>874.32125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>876.62125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>878.32125984252</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhsusf_B_300winmag</CartridgeNotes>
 		</Cartridge>
@@ -1271,7 +1544,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>984.562352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>985.462352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>987.062352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>989.362352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>991.062352279122</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_FMJ</CartridgeNotes>
 		</Cartridge>
@@ -1283,7 +1577,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>984.562352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>985.462352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>987.062352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>989.362352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>991.062352279122</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_Tracer</CartridgeNotes>
 		</Cartridge>
@@ -1295,7 +1610,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.383</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>934.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>935.8</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>937.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>939.7</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>941.4</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_BTSP</CartridgeNotes>
 		</Cartridge>
@@ -1307,7 +1643,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.383</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>934.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>935.8</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>937.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>939.7</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>941.4</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_S_BT</CartridgeNotes>
 		</Cartridge>
@@ -1319,7 +1676,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>855.622003376477</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>856.522003376477</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>858.122003376477</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>860.422003376477</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>862.122003376477</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_AP</CartridgeNotes>
 		</Cartridge>
@@ -1331,7 +1709,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>871.82125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>872.72125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>874.32125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>876.62125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>878.32125984252</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_BTHP</CartridgeNotes>
 		</Cartridge>
@@ -1360,7 +1759,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>871.82125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>872.72125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>874.32125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>876.62125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>878.32125984252</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhsusf_B_300winmag</CartridgeNotes>
 		</Cartridge>
@@ -1372,7 +1792,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>984.562352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>985.462352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>987.062352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>989.362352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>991.062352279122</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_FMJ</CartridgeNotes>
 		</Cartridge>
@@ -1384,7 +1825,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>984.562352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>985.462352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>987.062352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>989.362352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>991.062352279122</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_Tracer</CartridgeNotes>
 		</Cartridge>
@@ -1396,7 +1858,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.383</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>934.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>935.8</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>937.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>939.7</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>941.4</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_BTSP</CartridgeNotes>
 		</Cartridge>
@@ -1408,7 +1891,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.383</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>934.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>935.8</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>937.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>939.7</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>941.4</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_S_BT</CartridgeNotes>
 		</Cartridge>
@@ -1420,7 +1924,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>855.622003376477</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>856.522003376477</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>858.122003376477</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>860.422003376477</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>862.122003376477</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_AP</CartridgeNotes>
 		</Cartridge>
@@ -1432,7 +1957,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>871.82125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>872.72125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>874.32125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>876.62125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>878.32125984252</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_BTHP</CartridgeNotes>
 		</Cartridge>
@@ -1461,7 +2007,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>871.82125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>872.72125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>874.32125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>876.62125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>878.32125984252</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhsusf_B_300winmag</CartridgeNotes>
 		</Cartridge>
@@ -1473,7 +2040,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>984.562352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>985.462352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>987.062352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>989.362352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>991.062352279122</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_FMJ</CartridgeNotes>
 		</Cartridge>
@@ -1485,7 +2073,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>984.562352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>985.462352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>987.062352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>989.362352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>991.062352279122</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_Tracer</CartridgeNotes>
 		</Cartridge>
@@ -1497,7 +2106,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.383</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>934.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>935.8</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>937.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>939.7</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>941.4</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_BTSP</CartridgeNotes>
 		</Cartridge>
@@ -1509,7 +2139,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.383</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>934.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>935.8</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>937.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>939.7</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>941.4</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_S_BT</CartridgeNotes>
 		</Cartridge>
@@ -1521,7 +2172,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>855.622003376477</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>856.522003376477</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>858.122003376477</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>860.422003376477</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>862.122003376477</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_AP</CartridgeNotes>
 		</Cartridge>
@@ -1533,7 +2205,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>871.82125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>872.72125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>874.32125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>876.62125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>878.32125984252</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_BTHP</CartridgeNotes>
 		</Cartridge>
@@ -1562,7 +2255,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>871.82125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>872.72125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>874.32125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>876.62125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>878.32125984252</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhsusf_B_300winmag</CartridgeNotes>
 		</Cartridge>
@@ -1574,7 +2288,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>984.562352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>985.462352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>987.062352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>989.362352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>991.062352279122</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_FMJ</CartridgeNotes>
 		</Cartridge>
@@ -1586,7 +2321,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>984.562352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>985.462352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>987.062352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>989.362352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>991.062352279122</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_Tracer</CartridgeNotes>
 		</Cartridge>
@@ -1598,7 +2354,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.383</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>934.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>935.8</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>937.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>939.7</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>941.4</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_BTSP</CartridgeNotes>
 		</Cartridge>
@@ -1610,7 +2387,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.383</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>934.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>935.8</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>937.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>939.7</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>941.4</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_S_BT</CartridgeNotes>
 		</Cartridge>
@@ -1622,7 +2420,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>855.622003376477</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>856.522003376477</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>858.122003376477</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>860.422003376477</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>862.122003376477</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_AP</CartridgeNotes>
 		</Cartridge>
@@ -1634,7 +2453,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>871.82125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>872.72125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>874.32125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>876.62125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>878.32125984252</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_BTHP</CartridgeNotes>
 		</Cartridge>
@@ -1663,7 +2503,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>871.82125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>872.72125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>874.32125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>876.62125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>878.32125984252</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhsusf_B_300winmag</CartridgeNotes>
 		</Cartridge>
@@ -1675,7 +2536,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>984.562352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>985.462352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>987.062352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>989.362352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>991.062352279122</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_FMJ</CartridgeNotes>
 		</Cartridge>
@@ -1687,7 +2569,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>984.562352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>985.462352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>987.062352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>989.362352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>991.062352279122</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_Tracer</CartridgeNotes>
 		</Cartridge>
@@ -1699,7 +2602,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.383</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>934.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>935.8</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>937.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>939.7</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>941.4</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_BTSP</CartridgeNotes>
 		</Cartridge>
@@ -1711,7 +2635,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.383</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>934.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>935.8</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>937.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>939.7</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>941.4</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_S_BT</CartridgeNotes>
 		</Cartridge>
@@ -1723,7 +2668,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>855.622003376477</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>856.522003376477</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>858.122003376477</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>860.422003376477</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>862.122003376477</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_AP</CartridgeNotes>
 		</Cartridge>
@@ -1735,7 +2701,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>871.82125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>872.72125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>874.32125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>876.62125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>878.32125984252</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_BTHP</CartridgeNotes>
 		</Cartridge>
@@ -1764,7 +2751,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>871.82125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>872.72125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>874.32125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>876.62125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>878.32125984252</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhsusf_B_300winmag</CartridgeNotes>
 		</Cartridge>
@@ -1776,7 +2784,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>984.562352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>985.462352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>987.062352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>989.362352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>991.062352279122</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_FMJ</CartridgeNotes>
 		</Cartridge>
@@ -1788,7 +2817,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>984.562352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>985.462352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>987.062352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>989.362352279122</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>991.062352279122</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_Tracer</CartridgeNotes>
 		</Cartridge>
@@ -1800,7 +2850,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.383</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>934.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>935.8</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>937.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>939.7</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>941.4</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_BTSP</CartridgeNotes>
 		</Cartridge>
@@ -1812,7 +2883,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.383</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>934.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>935.8</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>937.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>939.7</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>941.4</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_S_BT</CartridgeNotes>
 		</Cartridge>
@@ -1824,7 +2916,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>855.622003376477</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>856.522003376477</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>858.122003376477</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>860.422003376477</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>862.122003376477</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_AP</CartridgeNotes>
 		</Cartridge>
@@ -1836,7 +2949,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>871.82125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>872.72125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>874.32125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>876.62125984252</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>878.32125984252</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_BTHP</CartridgeNotes>
 		</Cartridge>
@@ -2389,7 +3523,7 @@
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
@@ -2528,7 +3662,28 @@
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>907.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>907.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>908.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>909.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>910.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk319_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -2540,7 +3695,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>332.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>332.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>333.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>334.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>335.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Subsonic</CartridgeNotes>
 		</Cartridge>
@@ -2585,7 +3761,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>942.018739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>942.918739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>944.518739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>946.818739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>948.518739448509</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_FMJ</CartridgeNotes>
 		</Cartridge>
@@ -2597,7 +3794,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>942.018739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>942.918739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>944.518739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>946.818739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>948.518739448509</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_Tracer</CartridgeNotes>
 		</Cartridge>
@@ -2609,7 +3827,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.383</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>896.567605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>897.467605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>899.067605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>901.367605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>903.067605633803</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_BTSP</CartridgeNotes>
 		</Cartridge>
@@ -2621,7 +3860,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.383</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>896.567605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>897.467605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>899.067605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>901.367605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>903.067605633803</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_S_BT</CartridgeNotes>
 		</Cartridge>
@@ -2633,7 +3893,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>820.594428812605</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>821.494428812606</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>823.094428812606</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>825.394428812606</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>827.094428812606</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_AP</CartridgeNotes>
 		</Cartridge>
@@ -2721,7 +4002,7 @@
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
@@ -2860,7 +4141,28 @@
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>907.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>907.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>908.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>909.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>910.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk319_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -2872,7 +4174,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>332.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>332.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>333.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>334.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>335.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Subsonic</CartridgeNotes>
 		</Cartridge>
@@ -2917,7 +4240,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>942.018739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>942.918739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>944.518739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>946.818739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>948.518739448509</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_FMJ</CartridgeNotes>
 		</Cartridge>
@@ -2929,7 +4273,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>942.018739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>942.918739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>944.518739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>946.818739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>948.518739448509</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_Tracer</CartridgeNotes>
 		</Cartridge>
@@ -2941,7 +4306,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.383</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>896.567605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>897.467605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>899.067605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>901.367605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>903.067605633803</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_BTSP</CartridgeNotes>
 		</Cartridge>
@@ -2953,7 +4339,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.383</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>896.567605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>897.467605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>899.067605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>901.367605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>903.067605633803</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_S_BT</CartridgeNotes>
 		</Cartridge>
@@ -2965,7 +4372,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>820.594428812605</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>821.494428812606</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>823.094428812606</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>825.394428812606</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>827.094428812606</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_AP</CartridgeNotes>
 		</Cartridge>
@@ -3053,7 +4481,7 @@
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
@@ -3192,7 +4620,28 @@
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>907.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>907.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>908.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>909.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>910.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk319_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -3204,7 +4653,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>332.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>332.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>333.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>334.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>335.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Subsonic</CartridgeNotes>
 		</Cartridge>
@@ -3249,7 +4719,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>942.018739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>942.918739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>944.518739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>946.818739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>948.518739448509</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_FMJ</CartridgeNotes>
 		</Cartridge>
@@ -3261,7 +4752,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>942.018739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>942.918739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>944.518739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>946.818739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>948.518739448509</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_Tracer</CartridgeNotes>
 		</Cartridge>
@@ -3273,7 +4785,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.383</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>896.567605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>897.467605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>899.067605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>901.367605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>903.067605633803</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_BTSP</CartridgeNotes>
 		</Cartridge>
@@ -3285,7 +4818,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.383</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>896.567605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>897.467605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>899.067605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>901.367605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>903.067605633803</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_S_BT</CartridgeNotes>
 		</Cartridge>
@@ -3297,7 +4851,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>820.594428812605</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>821.494428812606</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>823.094428812606</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>825.394428812606</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>827.094428812606</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_AP</CartridgeNotes>
 		</Cartridge>
@@ -3385,7 +4960,7 @@
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
@@ -3524,7 +5099,28 @@
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>907.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>907.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>908.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>909.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>910.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk319_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -3536,7 +5132,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>332.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>332.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>333.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>334.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>335.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Subsonic</CartridgeNotes>
 		</Cartridge>
@@ -3581,7 +5198,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>942.018739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>942.918739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>944.518739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>946.818739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>948.518739448509</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_FMJ</CartridgeNotes>
 		</Cartridge>
@@ -3593,7 +5231,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>942.018739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>942.918739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>944.518739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>946.818739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>948.518739448509</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_Tracer</CartridgeNotes>
 		</Cartridge>
@@ -3605,7 +5264,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.383</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>896.567605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>897.467605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>899.067605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>901.367605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>903.067605633803</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_BTSP</CartridgeNotes>
 		</Cartridge>
@@ -3617,7 +5297,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.383</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>896.567605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>897.467605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>899.067605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>901.367605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>903.067605633803</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_S_BT</CartridgeNotes>
 		</Cartridge>
@@ -3629,7 +5330,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>820.594428812605</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>821.494428812606</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>823.094428812606</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>825.394428812606</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>827.094428812606</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_AP</CartridgeNotes>
 		</Cartridge>
@@ -3717,7 +5439,7 @@
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
@@ -3856,7 +5578,28 @@
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>907.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>907.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>908.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>909.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>910.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk319_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -3868,7 +5611,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>332.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>332.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>333.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>334.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>335.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Subsonic</CartridgeNotes>
 		</Cartridge>
@@ -3913,7 +5677,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>942.018739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>942.918739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>944.518739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>946.818739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>948.518739448509</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_FMJ</CartridgeNotes>
 		</Cartridge>
@@ -3925,7 +5710,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>942.018739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>942.918739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>944.518739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>946.818739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>948.518739448509</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_Tracer</CartridgeNotes>
 		</Cartridge>
@@ -3937,7 +5743,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.383</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>896.567605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>897.467605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>899.067605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>901.367605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>903.067605633803</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_BTSP</CartridgeNotes>
 		</Cartridge>
@@ -3949,7 +5776,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.383</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>896.567605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>897.467605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>899.067605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>901.367605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>903.067605633803</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_S_BT</CartridgeNotes>
 		</Cartridge>
@@ -3961,7 +5809,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>820.594428812605</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>821.494428812606</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>823.094428812606</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>825.394428812606</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>827.094428812606</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_AP</CartridgeNotes>
 		</Cartridge>
@@ -4049,7 +5918,7 @@
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
@@ -4188,7 +6057,28 @@
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>907.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>907.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>908.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>909.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>910.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk319_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -4200,7 +6090,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>332.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>332.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>333.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>334.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>335.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Subsonic</CartridgeNotes>
 		</Cartridge>
@@ -4245,7 +6156,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>942.018739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>942.918739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>944.518739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>946.818739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>948.518739448509</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_FMJ</CartridgeNotes>
 		</Cartridge>
@@ -4257,7 +6189,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>942.018739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>942.918739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>944.518739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>946.818739448509</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>948.518739448509</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_Tracer</CartridgeNotes>
 		</Cartridge>
@@ -4269,7 +6222,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.383</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>896.567605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>897.467605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>899.067605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>901.367605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>903.067605633803</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_BTSP</CartridgeNotes>
 		</Cartridge>
@@ -4281,7 +6255,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.383</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>896.567605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>897.467605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>899.067605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>901.367605633803</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>903.067605633803</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_S_BT</CartridgeNotes>
 		</Cartridge>
@@ -4293,7 +6288,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.489</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>820.594428812605</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>821.494428812606</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>823.094428812606</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>825.394428812606</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>827.094428812606</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>HLC_300WM_AP</CartridgeNotes>
 		</Cartridge>
@@ -4381,7 +6397,7 @@
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
@@ -4520,7 +6536,28 @@
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>907.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>907.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>908.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>909.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>910.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk319_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -4532,7 +6569,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>332.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>332.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>333.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>334.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>335.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Subsonic</CartridgeNotes>
 		</Cartridge>
@@ -4587,7 +6645,7 @@
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
@@ -4726,7 +6784,28 @@
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>907.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>907.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>908.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>909.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>910.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk319_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -4738,7 +6817,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>332.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>332.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>333.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>334.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>335.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Subsonic</CartridgeNotes>
 		</Cartridge>
@@ -4793,7 +6893,7 @@
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
@@ -4932,7 +7032,28 @@
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>907.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>907.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>908.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>909.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>910.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk319_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -4944,7 +7065,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>332.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>332.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>333.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>334.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>335.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Subsonic</CartridgeNotes>
 		</Cartridge>
@@ -4999,7 +7141,7 @@
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
@@ -5138,7 +7280,28 @@
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>907.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>907.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>908.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>909.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>910.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk319_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -5150,7 +7313,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>332.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>332.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>333.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>334.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>335.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Subsonic</CartridgeNotes>
 		</Cartridge>
@@ -5205,7 +7389,7 @@
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
@@ -5344,7 +7528,28 @@
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>907.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>907.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>908.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>909.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>910.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk319_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -5356,7 +7561,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>332.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>332.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>333.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>334.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>335.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Subsonic</CartridgeNotes>
 		</Cartridge>
@@ -5411,7 +7637,7 @@
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
@@ -5550,7 +7776,28 @@
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>907.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>907.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>908.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>909.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>910.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk319_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -5562,7 +7809,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>332.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>332.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>333.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>334.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>335.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Subsonic</CartridgeNotes>
 		</Cartridge>
@@ -5591,19 +7859,61 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>766.53</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>771.88</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>779.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>790.47</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>797.96</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>919.53</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>924.88</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>932.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>943.47</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>950.96</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhs_ammo_762x51_M993_Ball</CartridgeNotes>
 		</Cartridge>
@@ -5615,7 +7925,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>813.53</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>818.88</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>826.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>837.47</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>844.96</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhs_ammo_762x51_M62_tracer</CartridgeNotes>
 		</Cartridge>
@@ -5627,7 +7958,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>813.53</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>818.88</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>826.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>837.47</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>844.96</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhs_ammo_762x51_M80</CartridgeNotes>
 		</Cartridge>
@@ -5639,7 +7991,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>802.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>803.3</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>804.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>807.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>808.9</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk316_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -5651,7 +8024,28 @@
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>907.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>907.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>908.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>909.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>910.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk319_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -5663,7 +8057,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>332.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>332.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>333.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>334.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>335.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Subsonic</CartridgeNotes>
 		</Cartridge>
@@ -5692,19 +8107,61 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>766.53</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>771.88</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>779.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>790.47</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>797.96</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>919.53</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>924.88</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>932.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>943.47</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>950.96</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhs_ammo_762x51_M993_Ball</CartridgeNotes>
 		</Cartridge>
@@ -5716,7 +8173,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>813.53</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>818.88</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>826.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>837.47</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>844.96</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhs_ammo_762x51_M62_tracer</CartridgeNotes>
 		</Cartridge>
@@ -5728,7 +8206,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>813.53</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>818.88</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>826.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>837.47</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>844.96</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhs_ammo_762x51_M80</CartridgeNotes>
 		</Cartridge>
@@ -5740,7 +8239,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>802.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>803.3</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>804.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>807.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>808.9</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk316_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -5752,7 +8272,28 @@
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>907.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>907.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>908.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>909.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>910.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk319_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -5764,7 +8305,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>332.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>332.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>333.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>334.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>335.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Subsonic</CartridgeNotes>
 		</Cartridge>
@@ -5793,19 +8355,61 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>766.53</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>771.88</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>779.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>790.47</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>797.96</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>919.53</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>924.88</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>932.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>943.47</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>950.96</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhs_ammo_762x51_M993_Ball</CartridgeNotes>
 		</Cartridge>
@@ -5817,7 +8421,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>813.53</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>818.88</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>826.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>837.47</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>844.96</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhs_ammo_762x51_M62_tracer</CartridgeNotes>
 		</Cartridge>
@@ -5829,7 +8454,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>813.53</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>818.88</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>826.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>837.47</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>844.96</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhs_ammo_762x51_M80</CartridgeNotes>
 		</Cartridge>
@@ -5841,7 +8487,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>802.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>803.3</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>804.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>807.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>808.9</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk316_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -5853,7 +8520,28 @@
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>907.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>907.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>908.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>909.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>910.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk319_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -5865,7 +8553,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>332.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>332.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>333.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>334.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>335.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Subsonic</CartridgeNotes>
 		</Cartridge>
@@ -5894,19 +8603,61 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>766.53</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>771.88</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>779.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>790.47</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>797.96</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>919.53</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>924.88</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>932.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>943.47</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>950.96</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhs_ammo_762x51_M993_Ball</CartridgeNotes>
 		</Cartridge>
@@ -5918,7 +8669,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>813.53</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>818.88</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>826.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>837.47</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>844.96</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhs_ammo_762x51_M62_tracer</CartridgeNotes>
 		</Cartridge>
@@ -5930,7 +8702,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>813.53</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>818.88</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>826.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>837.47</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>844.96</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhs_ammo_762x51_M80</CartridgeNotes>
 		</Cartridge>
@@ -5942,7 +8735,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>802.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>803.3</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>804.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>807.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>808.9</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk316_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -5954,7 +8768,28 @@
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>907.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>907.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>908.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>909.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>910.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk319_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -5966,7 +8801,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>332.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>332.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>333.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>334.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>335.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Subsonic</CartridgeNotes>
 		</Cartridge>
@@ -5995,19 +8851,61 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>766.53</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>771.88</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>779.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>790.47</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>797.96</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>919.53</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>924.88</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>932.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>943.47</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>950.96</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhs_ammo_762x51_M993_Ball</CartridgeNotes>
 		</Cartridge>
@@ -6019,7 +8917,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>813.53</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>818.88</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>826.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>837.47</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>844.96</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhs_ammo_762x51_M62_tracer</CartridgeNotes>
 		</Cartridge>
@@ -6031,7 +8950,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>813.53</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>818.88</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>826.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>837.47</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>844.96</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhs_ammo_762x51_M80</CartridgeNotes>
 		</Cartridge>
@@ -6043,7 +8983,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>802.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>803.3</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>804.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>807.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>808.9</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk316_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -6055,7 +9016,28 @@
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>907.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>907.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>908.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>909.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>910.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk319_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -6067,7 +9049,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>332.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>332.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>333.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>334.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>335.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Subsonic</CartridgeNotes>
 		</Cartridge>
@@ -6096,19 +9099,61 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>766.53</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>771.88</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>779.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>790.47</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>797.96</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>919.53</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>924.88</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>932.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>943.47</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>950.96</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhs_ammo_762x51_M993_Ball</CartridgeNotes>
 		</Cartridge>
@@ -6120,7 +9165,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>813.53</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>818.88</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>826.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>837.47</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>844.96</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhs_ammo_762x51_M62_tracer</CartridgeNotes>
 		</Cartridge>
@@ -6132,7 +9198,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.14</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>813.53</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>818.88</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>826.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>837.47</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>844.96</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>rhs_ammo_762x51_M80</CartridgeNotes>
 		</Cartridge>
@@ -6144,7 +9231,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>802.4</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>803.3</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>804.9</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>807.2</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>808.9</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk316_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -6156,7 +9264,28 @@
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>907.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>907.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>908.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>909.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>910.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk319_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -6168,7 +9297,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>332.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>332.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>333.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>334.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>335.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Subsonic</CartridgeNotes>
 		</Cartridge>
@@ -6721,7 +9871,7 @@
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
@@ -6969,7 +10119,7 @@
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
@@ -7217,7 +10367,7 @@
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
@@ -7465,7 +10615,7 @@
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
@@ -7713,7 +10863,7 @@
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
@@ -7961,7 +11111,7 @@
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
@@ -8209,7 +11359,7 @@
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
@@ -8348,7 +11498,28 @@
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>907.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>907.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>908.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>909.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>910.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk319_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -8360,7 +11531,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>332.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>332.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>333.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>334.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>335.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Subsonic</CartridgeNotes>
 		</Cartridge>
@@ -8415,7 +11607,7 @@
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
@@ -8554,7 +11746,28 @@
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>907.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>907.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>908.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>909.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>910.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk319_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -8566,7 +11779,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>332.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>332.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>333.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>334.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>335.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Subsonic</CartridgeNotes>
 		</Cartridge>
@@ -8621,7 +11855,7 @@
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
@@ -8760,7 +11994,28 @@
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>907.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>907.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>908.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>909.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>910.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk319_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -8772,7 +12027,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>332.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>332.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>333.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>334.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>335.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Subsonic</CartridgeNotes>
 		</Cartridge>
@@ -8827,7 +12103,7 @@
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
@@ -8966,7 +12242,28 @@
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>907.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>907.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>908.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>909.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>910.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk319_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -8978,7 +12275,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>332.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>332.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>333.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>334.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>335.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Subsonic</CartridgeNotes>
 		</Cartridge>
@@ -9033,7 +12351,7 @@
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
@@ -9172,7 +12490,28 @@
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>907.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>907.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>908.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>909.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>910.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk319_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -9184,7 +12523,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>332.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>332.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>333.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>334.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>335.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Subsonic</CartridgeNotes>
 		</Cartridge>
@@ -9239,7 +12599,7 @@
 			<CartridgeNotes>rhs_ammo_762x51_M118_Special_Ball</CartridgeNotes>
 		</Cartridge>
 		<Cartridge>
-			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
+			<CartridgeName>M993 AP (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
 			<BulletBC>0.359</BulletBC>
 			<DragFunctionName>G1</DragFunctionName>
@@ -9378,7 +12738,28 @@
 			<DragFunctionNumber>1</DragFunctionNumber>
 			<bullet_length_inch>1.24</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>907.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>907.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>908.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>909.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>910.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Mk319_Mod_0</CartridgeNotes>
 		</Cartridge>
@@ -9390,7 +12771,28 @@
 			<DragFunctionNumber>5</DragFunctionNumber>
 			<bullet_length_inch>1.34</bullet_length_inch>
 			<bullet_diam_inch>0.308</bullet_diam_inch>
-			<TermoSensitivity/>
+			<TermoSensitivity>
+				<TermoRow>
+					<TS_Temperature>-10.0</TS_Temperature>
+					<TS_Speed>332.453</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>0.0</TS_Temperature>
+					<TS_Speed>332.988</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>10.0</TS_Temperature>
+					<TS_Speed>333.72</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>20.0</TS_Temperature>
+					<TS_Speed>334.847</TS_Speed>
+				</TermoRow>
+				<TermoRow>
+					<TS_Temperature>25.0</TS_Temperature>
+					<TS_Speed>335.596</TS_Speed>
+				</TermoRow>
+			</TermoSensitivity>
 			<same_atm>true</same_atm>
 			<CartridgeNotes>ACE_762x51_Ball_Subsonic</CartridgeNotes>
 		</Cartridge>
