@@ -230,10 +230,12 @@ Func XMLAddRifleCartridge(ByRef $oXMLDoc, ByRef $cartridgeElement, $ammoType, $a
         $cartridgeElement.appendChild($newNode)
     EndIf
 
-    Local $newNode = $oXMLDoc.createElement("DragFunctionCategory")
-    $newNode.text = 0
-    $cartridgeElement.appendChild($newNode)
+    ;Dunno what this is, 0 is default. Leaving it out doesn't hurt
+    ;Local $newNode = $oXMLDoc.createElement("DragFunctionCategory")
+    ;$newNode.text = 0
+    ;$cartridgeElement.appendChild($newNode)
 
+    ;App autogenerates this
     ;Local $newNode = $oXMLDoc.createElement("StabilityFactor")
     ;$newNode.text = 0
     ;$cartridgeElement.appendChild($newNode)
@@ -246,17 +248,20 @@ Func XMLAddRifleCartridge(ByRef $oXMLDoc, ByRef $cartridgeElement, $ammoType, $a
     $newNode.text = String(Round($ACE_caliber / 25.4,4))
     $cartridgeElement.appendChild($newNode)
 
-    Local $newNode = $oXMLDoc.createElement("ShiftVerticalMOA")
-    $newNode.text = 0
-    $cartridgeElement.appendChild($newNode)
+    ;Zero offset Vertical
+    ;Local $newNode = $oXMLDoc.createElement("ShiftVerticalMOA")
+    ;$newNode.text = 0
+    ;$cartridgeElement.appendChild($newNode)
 
-    Local $newNode = $oXMLDoc.createElement("ShiftHorizontalMOA")
-    $newNode.text = 0
-    $cartridgeElement.appendChild($newNode)
+    ;Zero offset Horizontal
+    ;Local $newNode = $oXMLDoc.createElement("ShiftHorizontalMOA")
+    ;$newNode.text = 0
+    ;$cartridgeElement.appendChild($newNode)
 
-    Local $newNode = $oXMLDoc.createElement("offset_units")
-    $newNode.text = 1
-    $cartridgeElement.appendChild($newNode)
+    ;Zero Offset units, Default is MOA
+    ;Local $newNode = $oXMLDoc.createElement("offset_units")
+    ;$newNode.text = 1
+    ;$cartridgeElement.appendChild($newNode)
 
     $query = "SELECT ammoVelocityShift.temperature, ammoMuzzleVel.ACE_muzzleVelocity + ammoVelocityShift.ACE_ammoTempMuzzleVelocityShift" & @CRLF & _
         "FROM ammoTypes" & @CRLF & _
@@ -292,20 +297,26 @@ Func XMLAddRifleCartridge(ByRef $oXMLDoc, ByRef $cartridgeElement, $ammoType, $a
     WEnd
     $cartridgeElement.appendChild($thermoNode)
 
+    ;With same_atm=true all these are ignored anyway
+    ;#TODO might wanna set this to ICAO/ASM? Difference is about 0.02MRAD on 800m at most, not enough to matter
+
+    ;Local $atmosICAO[3] = [15, "1013.25", 0];temp,pressure,humidity
+    ;Local $atmosASM[3] = [15, "999.915", 78];temp,pressure,humidity
+
     ;Local $newNode = $oXMLDoc.createElement("ZeroTemperature")
-    ;$newNode.text = 14
+    ;$newNode.text = $atmosICAO[0]
     ;$cartridgeElement.appendChild($newNode)
 
     ;Local $newNode = $oXMLDoc.createElement("ZeroPowderTemperature")
-    ;$newNode.text = 15
+    ;$newNode.text = $atmosICAO[0]
     ;$cartridgeElement.appendChild($newNode)
 
     ;Local $newNode = $oXMLDoc.createElement("ZeroPressure")
-    ;$newNode.text = 594
+    ;$newNode.text = $atmosICAO[1]
     ;$cartridgeElement.appendChild($newNode)
 
     ;Local $newNode = $oXMLDoc.createElement("ZeroHumidity")
-    ;$newNode.text =0
+    ;$newNode.text = $atmosICAO[2]
     ;$cartridgeElement.appendChild($newNode)
 
     ;Local $newNode = $oXMLDoc.createElement("ZeroDensityAltitude")
