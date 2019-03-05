@@ -1,9 +1,17 @@
-#include <SQLite.au3>
 #include <SQLite.dll.au3>
+#include <SQLite.au3>
 #include <Array.au3>
 #include "XML.au3"
 
-Local $sSQliteDll = _SQLite_Startup()
+Local $SQLiteDllName
+
+If @AutoItX64 Then 
+    $SQLiteDllName = "sqlite3_x64_302700200.dll"
+Else
+    $SQLiteDllName = "sqlite3_302700200.dll"
+EndIf
+
+Local $sSQliteDll = _SQLite_Startup($SQLiteDllName, Default, 1)
 
 If @error Then
     MsgBox($MB_SYSTEMMODAL, "SQLite Error", "SQLite3.dll Can't be Loaded!" & @CRLF & @CRLF & _
