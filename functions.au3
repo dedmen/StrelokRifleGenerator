@@ -133,7 +133,7 @@ Func AddAmmoToMagazineWell($magazineWellName, $ammoType)
 EndFunc
 
 
-Func XMLAddRifleCartridge(ByRef $oXMLDoc,ByRef $cartridgeElement, $ammoType, $ace_barrelLength)
+Func XMLAddRifleCartridge(ByRef $oXMLDoc, ByRef $cartridgeElement, $ammoType, $ace_barrelLength)
 
     $query = "SELECT name, classname, ACE_caliber, ACE_dragModel, ACE_bulletMass, ACE_bulletLength, ACE_ballisticCoefficient FROM ammoTypes" & @CRLF & _
     "WHERE" & @CRLF & _
@@ -309,10 +309,11 @@ Func XMLAddRifleCartridge(ByRef $oXMLDoc,ByRef $cartridgeElement, $ammoType, $ac
     $cartridgeElement.appendChild($newNode)
 
     Local $newNode = $oXMLDoc.createElement("CartridgeNotes")
+    $newNode.text = $classname
     $cartridgeElement.appendChild($newNode)
 EndFunc
 
-Func XMLAddRifleScopeCombi(ByRef $oXMLDoc,ByRef $rifleElement, $rifleID, $scopeID)
+Func XMLAddRifleScopeCombi(ByRef $oXMLDoc, ByRef $rifleElement, $rifleID, $scopeID)
 
 	Local $aRow
     _SQLite_QuerySingleRow(-1, "SELECT name, classname, ace_barrelLength, ace_barrelTwist, ace_RailHeightAboveBore FROM rifles WHERE rifles.id="&$rifleID, $aRow)
@@ -326,7 +327,7 @@ Func XMLAddRifleScopeCombi(ByRef $oXMLDoc,ByRef $rifleElement, $rifleID, $scopeI
     _SQLite_QuerySingleRow(-1, "SELECT name, classname, ACE_ScopeHeightAboveRail FROM scopes WHERE scopes.id="&$scopeID, $aRow)
     $scopeName = $aRow[0]
     $ACE_ScopeHeightAboveRail = $aRow[2]
-
+    ConsoleWrite("Generating "&$name &" ["&$scopeName&"]" & @CRLF)
     Local $newNode = $oXMLDoc.createElement("RifleName")
     $newNode.text = $name &" ["&$scopeName&"]"
     $rifleElement.appendChild($newNode)
@@ -458,19 +459,6 @@ Func XMLAddRifleScopeCombi(ByRef $oXMLDoc,ByRef $rifleElement, $rifleID, $scopeI
 
 EndFunc
 
-
-Func XMLAddRifle(ByRef $oXMLDoc, ByRef $rifleElement, $rifleID)
-
-    Local $hQuery
-    Local $aRow
-    _SQLite_Query(-1, "SELECT scopes.id FROM scopes", $hQuery) ; the query
-    While _SQLite_FetchData($hQuery, $aRow) = $SQLITE_OK
-        XMLAddRifleScopeCombi($oXMLDoc,$rifleElement, $rifleID, $aRow[0])
-    WEnd
-
-EndFunc
-
-
 Func GenerateRiflesSRL()
     Local $oXMLDoc = _XML_CreateDOMDocument(Default)
 
@@ -491,16 +479,22 @@ Func GenerateRiflesSRL()
 
     Local $hQuery
     Local $aRow
-    _SQLite_Query(-1, "SELECT rifles.id FROM rifles", $hQuery) ; the query
+    _SQLite_Query(-1, "SELECT rifles.id FROM rifles ORDER BY rifles.name", $hQuery) ; the query
     While _SQLite_FetchData($hQuery, $aRow) = $SQLITE_OK
-        Local $rifleNode = $oXMLDoc.createElement("Rifle")
-        XMLAddRifle($oXMLDoc, $rifleNode, $aRow[0])
-        $StrelokNode.appendChild($rifleNode)
+        Local $hScopeQuery
+        Local $aScopeRow
+        _SQLite_Query(-1, "SELECT scopes.id FROM scopes ORDER BY scopes.name", $hScopeQuery) ; the query
+        While _SQLite_FetchData($hScopeQuery, $aScopeRow) = $SQLITE_OK
+            Local $rifleNode = $oXMLDoc.createElement("Rifle")
+            XMLAddRifleScopeCombi($oXMLDoc, $rifleNode, $aRow[0], $aScopeRow[0])
+            $StrelokNode.appendChild($rifleNode)
+        WEnd        
     WEnd
     FileDelete("rifles.srl")
 
-    
-    FileWrite("rifles.srl", _XML_Tidy($oXMLDoc))
+    $XMLOutput = _XML_Tidy($oXMLDoc)
+
+    FileWrite("rifles.srl", $XMLOutput)
 
     ;_XML_SaveToFile($oXMLDoc, "rifles.srl")
 EndFunc
