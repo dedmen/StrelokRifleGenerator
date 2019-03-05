@@ -176,30 +176,30 @@ Func XMLAddRifleCartridge(ByRef $oXMLDoc,ByRef $cartridgeElement, $ammoType, $ac
     $cartridgeElement.appendChild($newNode)
 
 
-    Local $newNode = $oXMLDoc.createElement("BulletBC2")
-    $newNode.text = 0
-    $cartridgeElement.appendChild($newNode)
-    Local $newNode = $oXMLDoc.createElement("BulletBC2Speed")
-    $newNode.text = 0
-    $cartridgeElement.appendChild($newNode)
-    Local $newNode = $oXMLDoc.createElement("BulletBC3")
-    $newNode.text = 0
-    $cartridgeElement.appendChild($newNode)
-    Local $newNode = $oXMLDoc.createElement("BulletBC3Speed")
-    $newNode.text = 0
-    $cartridgeElement.appendChild($newNode)
-    Local $newNode = $oXMLDoc.createElement("BulletBC4")
-    $newNode.text = 0
-    $cartridgeElement.appendChild($newNode)
-    Local $newNode = $oXMLDoc.createElement("BulletBC4Speed")
-    $newNode.text = 0
-    $cartridgeElement.appendChild($newNode)
-    Local $newNode = $oXMLDoc.createElement("BulletBC5")
-    $newNode.text = 0
-    $cartridgeElement.appendChild($newNode)
-    Local $newNode = $oXMLDoc.createElement("BulletBC5Speed")
-    $newNode.text = 0
-    $cartridgeElement.appendChild($newNode)
+    ;Local $newNode = $oXMLDoc.createElement("BulletBC2")
+    ;$newNode.text = 0
+    ;$cartridgeElement.appendChild($newNode)
+    ;Local $newNode = $oXMLDoc.createElement("BulletBC2Speed")
+    ;$newNode.text = 0
+    ;$cartridgeElement.appendChild($newNode)
+    ;Local $newNode = $oXMLDoc.createElement("BulletBC3")
+    ;$newNode.text = 0
+    ;$cartridgeElement.appendChild($newNode)
+    ;Local $newNode = $oXMLDoc.createElement("BulletBC3Speed")
+    ;$newNode.text = 0
+    ;$cartridgeElement.appendChild($newNode)
+    ;Local $newNode = $oXMLDoc.createElement("BulletBC4")
+    ;$newNode.text = 0
+    ;$cartridgeElement.appendChild($newNode)
+    ;Local $newNode = $oXMLDoc.createElement("BulletBC4Speed")
+    ;$newNode.text = 0
+    ;$cartridgeElement.appendChild($newNode)
+    ;Local $newNode = $oXMLDoc.createElement("BulletBC5")
+    ;$newNode.text = 0
+    ;$cartridgeElement.appendChild($newNode)
+    ;Local $newNode = $oXMLDoc.createElement("BulletBC5Speed")
+    ;$newNode.text = 0
+    ;$cartridgeElement.appendChild($newNode)
 
     ;Local $newNode = $oXMLDoc.createElement("TempModifyer")
     ;$newNode.text = "0.4"
@@ -284,25 +284,25 @@ Func XMLAddRifleCartridge(ByRef $oXMLDoc,ByRef $cartridgeElement, $ammoType, $ac
     WEnd
     $cartridgeElement.appendChild($thermoNode)
 
-    Local $newNode = $oXMLDoc.createElement("ZeroTemperature")
-    $newNode.text = 14
-    $cartridgeElement.appendChild($newNode)
+    ;Local $newNode = $oXMLDoc.createElement("ZeroTemperature")
+    ;$newNode.text = 14
+    ;$cartridgeElement.appendChild($newNode)
 
-    Local $newNode = $oXMLDoc.createElement("ZeroPowderTemperature")
-    $newNode.text = 15
-    $cartridgeElement.appendChild($newNode)
+    ;Local $newNode = $oXMLDoc.createElement("ZeroPowderTemperature")
+    ;$newNode.text = 15
+    ;$cartridgeElement.appendChild($newNode)
 
-    Local $newNode = $oXMLDoc.createElement("ZeroPressure")
-    $newNode.text = 594
-    $cartridgeElement.appendChild($newNode)
+    ;Local $newNode = $oXMLDoc.createElement("ZeroPressure")
+    ;$newNode.text = 594
+    ;$cartridgeElement.appendChild($newNode)
 
-    Local $newNode = $oXMLDoc.createElement("ZeroHumidity")
-    $newNode.text =0
-    $cartridgeElement.appendChild($newNode)
+    ;Local $newNode = $oXMLDoc.createElement("ZeroHumidity")
+    ;$newNode.text =0
+    ;$cartridgeElement.appendChild($newNode)
 
-    Local $newNode = $oXMLDoc.createElement("ZeroDensityAltitude")
-    $newNode.text = 346
-    $cartridgeElement.appendChild($newNode)
+    ;Local $newNode = $oXMLDoc.createElement("ZeroDensityAltitude")
+    ;$newNode.text = 346
+    ;$cartridgeElement.appendChild($newNode)
 
     Local $newNode = $oXMLDoc.createElement("same_atm")
     $newNode.text = "true"
