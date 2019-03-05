@@ -31,8 +31,6 @@
 		<Cartridge>
 			<CartridgeName>M33 Ball (RHS)</CartridgeName>
 			<BulletWeight_gr>646.9</BulletWeight_gr>
-			<BulletSpeed>874.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.67</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -71,8 +69,6 @@
 		<Cartridge>
 			<CartridgeName>Mk 211 HEIAP (RHS)</CartridgeName>
 			<BulletWeight_gr>647.9</BulletWeight_gr>
-			<BulletSpeed>874.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.67</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -141,8 +137,6 @@
 		<Cartridge>
 			<CartridgeName>M33 Ball (RHS)</CartridgeName>
 			<BulletWeight_gr>646.9</BulletWeight_gr>
-			<BulletSpeed>874.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.67</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -181,8 +175,6 @@
 		<Cartridge>
 			<CartridgeName>Mk 211 HEIAP (RHS)</CartridgeName>
 			<BulletWeight_gr>647.9</BulletWeight_gr>
-			<BulletSpeed>874.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.67</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -251,8 +243,6 @@
 		<Cartridge>
 			<CartridgeName>M33 Ball (RHS)</CartridgeName>
 			<BulletWeight_gr>646.9</BulletWeight_gr>
-			<BulletSpeed>874.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.67</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -291,8 +281,6 @@
 		<Cartridge>
 			<CartridgeName>Mk 211 HEIAP (RHS)</CartridgeName>
 			<BulletWeight_gr>647.9</BulletWeight_gr>
-			<BulletSpeed>874.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.67</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -361,8 +349,6 @@
 		<Cartridge>
 			<CartridgeName>M33 Ball (RHS)</CartridgeName>
 			<BulletWeight_gr>646.9</BulletWeight_gr>
-			<BulletSpeed>874.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.67</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -401,8 +387,6 @@
 		<Cartridge>
 			<CartridgeName>Mk 211 HEIAP (RHS)</CartridgeName>
 			<BulletWeight_gr>647.9</BulletWeight_gr>
-			<BulletSpeed>874.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.67</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -471,8 +455,6 @@
 		<Cartridge>
 			<CartridgeName>M33 Ball (RHS)</CartridgeName>
 			<BulletWeight_gr>646.9</BulletWeight_gr>
-			<BulletSpeed>874.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.67</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -511,8 +493,6 @@
 		<Cartridge>
 			<CartridgeName>Mk 211 HEIAP (RHS)</CartridgeName>
 			<BulletWeight_gr>647.9</BulletWeight_gr>
-			<BulletSpeed>874.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.67</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -581,8 +561,6 @@
 		<Cartridge>
 			<CartridgeName>M33 Ball (RHS)</CartridgeName>
 			<BulletWeight_gr>646.9</BulletWeight_gr>
-			<BulletSpeed>874.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.67</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -621,8 +599,6 @@
 		<Cartridge>
 			<CartridgeName>Mk 211 HEIAP (RHS)</CartridgeName>
 			<BulletWeight_gr>647.9</BulletWeight_gr>
-			<BulletSpeed>874.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.67</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -691,8 +667,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>764.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -731,8 +705,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>919.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -771,8 +743,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -811,8 +781,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -851,8 +819,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>799.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -891,8 +857,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -910,8 +874,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -929,8 +891,6 @@
 		<Cartridge>
 			<CartridgeName>.300WM Mk248 MOD 1 (RHS)</CartridgeName>
 			<BulletWeight_gr>220</BulletWeight_gr>
-			<BulletSpeed>861.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.31</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -999,8 +959,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>764.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -1039,8 +997,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>919.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -1079,8 +1035,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -1119,8 +1073,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -1159,8 +1111,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>799.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -1199,8 +1149,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -1218,8 +1166,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -1237,8 +1183,6 @@
 		<Cartridge>
 			<CartridgeName>.300WM Mk248 MOD 1 (RHS)</CartridgeName>
 			<BulletWeight_gr>220</BulletWeight_gr>
-			<BulletSpeed>861.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.31</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -1307,8 +1251,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>764.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -1347,8 +1289,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>919.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -1387,8 +1327,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -1427,8 +1365,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -1467,8 +1403,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>799.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -1507,8 +1441,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -1526,8 +1458,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -1545,8 +1475,6 @@
 		<Cartridge>
 			<CartridgeName>.300WM Mk248 MOD 1 (RHS)</CartridgeName>
 			<BulletWeight_gr>220</BulletWeight_gr>
-			<BulletSpeed>861.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.31</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -1615,8 +1543,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>764.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -1655,8 +1581,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>919.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -1695,8 +1619,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -1735,8 +1657,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -1775,8 +1695,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>799.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -1815,8 +1733,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -1834,8 +1750,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -1853,8 +1767,6 @@
 		<Cartridge>
 			<CartridgeName>.300WM Mk248 MOD 1 (RHS)</CartridgeName>
 			<BulletWeight_gr>220</BulletWeight_gr>
-			<BulletSpeed>861.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.31</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -1923,8 +1835,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>764.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -1963,8 +1873,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>919.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -2003,8 +1911,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -2043,8 +1949,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -2083,8 +1987,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>799.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -2123,8 +2025,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -2142,8 +2042,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -2161,8 +2059,6 @@
 		<Cartridge>
 			<CartridgeName>.300WM Mk248 MOD 1 (RHS)</CartridgeName>
 			<BulletWeight_gr>220</BulletWeight_gr>
-			<BulletSpeed>861.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.31</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -2231,8 +2127,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>764.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -2271,8 +2165,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>919.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -2311,8 +2203,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -2351,8 +2241,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -2391,8 +2279,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>799.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -2431,8 +2317,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -2450,8 +2334,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -2469,8 +2351,6 @@
 		<Cartridge>
 			<CartridgeName>.300WM Mk248 MOD 1 (RHS)</CartridgeName>
 			<BulletWeight_gr>220</BulletWeight_gr>
-			<BulletSpeed>861.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.31</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -2539,8 +2419,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>764.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -2579,8 +2457,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>919.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -2619,8 +2495,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -2659,8 +2533,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -2699,8 +2571,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>799.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -2739,8 +2609,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -2758,8 +2626,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -2807,8 +2673,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>764.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -2847,8 +2711,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>919.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -2887,8 +2749,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -2927,8 +2787,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -2967,8 +2825,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>799.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -3007,8 +2863,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -3026,8 +2880,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -3075,8 +2927,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>764.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -3115,8 +2965,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>919.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -3155,8 +3003,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -3195,8 +3041,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -3235,8 +3079,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>799.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -3275,8 +3117,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -3294,8 +3134,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -3343,8 +3181,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>764.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -3383,8 +3219,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>919.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -3423,8 +3257,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -3463,8 +3295,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -3503,8 +3333,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>799.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -3543,8 +3371,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -3562,8 +3388,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -3611,8 +3435,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>764.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -3651,8 +3473,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>919.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -3691,8 +3511,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -3731,8 +3549,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -3771,8 +3587,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>799.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -3811,8 +3625,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -3830,8 +3642,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -3879,8 +3689,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>764.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -3919,8 +3727,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>919.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -3959,8 +3765,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -3999,8 +3803,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4039,8 +3841,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>799.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4079,8 +3879,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -4098,8 +3896,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4147,8 +3943,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4166,8 +3960,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -4185,8 +3977,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4204,8 +3994,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4223,8 +4011,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4242,8 +4028,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -4261,8 +4045,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4310,8 +4092,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4329,8 +4109,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -4348,8 +4126,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4367,8 +4143,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4386,8 +4160,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4405,8 +4177,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -4424,8 +4194,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4473,8 +4241,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4492,8 +4258,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -4511,8 +4275,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4530,8 +4292,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4549,8 +4309,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4568,8 +4326,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -4587,8 +4343,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4636,8 +4390,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4655,8 +4407,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -4674,8 +4424,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4693,8 +4441,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4712,8 +4458,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4731,8 +4475,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -4750,8 +4492,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4799,8 +4539,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4818,8 +4556,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -4837,8 +4573,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4856,8 +4590,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4875,8 +4607,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4894,8 +4624,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -4913,8 +4641,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4962,8 +4688,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -4981,8 +4705,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -5000,8 +4722,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -5019,8 +4739,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -5038,8 +4756,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -5057,8 +4773,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -5076,8 +4790,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -5125,8 +4837,6 @@
 		<Cartridge>
 			<CartridgeName>M33 Ball (RHS)</CartridgeName>
 			<BulletWeight_gr>646.9</BulletWeight_gr>
-			<BulletSpeed>874.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.67</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -5165,8 +4875,6 @@
 		<Cartridge>
 			<CartridgeName>Mk 211 HEIAP (RHS)</CartridgeName>
 			<BulletWeight_gr>647.9</BulletWeight_gr>
-			<BulletSpeed>874.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.67</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -5235,8 +4943,6 @@
 		<Cartridge>
 			<CartridgeName>M33 Ball (RHS)</CartridgeName>
 			<BulletWeight_gr>646.9</BulletWeight_gr>
-			<BulletSpeed>874.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.67</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -5275,8 +4981,6 @@
 		<Cartridge>
 			<CartridgeName>Mk 211 HEIAP (RHS)</CartridgeName>
 			<BulletWeight_gr>647.9</BulletWeight_gr>
-			<BulletSpeed>874.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.67</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -5345,8 +5049,6 @@
 		<Cartridge>
 			<CartridgeName>M33 Ball (RHS)</CartridgeName>
 			<BulletWeight_gr>646.9</BulletWeight_gr>
-			<BulletSpeed>874.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.67</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -5385,8 +5087,6 @@
 		<Cartridge>
 			<CartridgeName>Mk 211 HEIAP (RHS)</CartridgeName>
 			<BulletWeight_gr>647.9</BulletWeight_gr>
-			<BulletSpeed>874.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.67</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -5455,8 +5155,6 @@
 		<Cartridge>
 			<CartridgeName>M33 Ball (RHS)</CartridgeName>
 			<BulletWeight_gr>646.9</BulletWeight_gr>
-			<BulletSpeed>874.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.67</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -5495,8 +5193,6 @@
 		<Cartridge>
 			<CartridgeName>Mk 211 HEIAP (RHS)</CartridgeName>
 			<BulletWeight_gr>647.9</BulletWeight_gr>
-			<BulletSpeed>874.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.67</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -5565,8 +5261,6 @@
 		<Cartridge>
 			<CartridgeName>M33 Ball (RHS)</CartridgeName>
 			<BulletWeight_gr>646.9</BulletWeight_gr>
-			<BulletSpeed>874.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.67</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -5605,8 +5299,6 @@
 		<Cartridge>
 			<CartridgeName>Mk 211 HEIAP (RHS)</CartridgeName>
 			<BulletWeight_gr>647.9</BulletWeight_gr>
-			<BulletSpeed>874.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.67</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -5675,8 +5367,6 @@
 		<Cartridge>
 			<CartridgeName>M33 Ball (RHS)</CartridgeName>
 			<BulletWeight_gr>646.9</BulletWeight_gr>
-			<BulletSpeed>874.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.67</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -5715,8 +5405,6 @@
 		<Cartridge>
 			<CartridgeName>Mk 211 HEIAP (RHS)</CartridgeName>
 			<BulletWeight_gr>647.9</BulletWeight_gr>
-			<BulletSpeed>874.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.67</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -5785,8 +5473,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>754.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -5825,8 +5511,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>904.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -5865,8 +5549,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>794.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -5905,8 +5587,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>794.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -5945,8 +5625,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>784.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -5985,8 +5663,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>907.453</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -6025,8 +5701,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>332.453</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -6095,8 +5769,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>754.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -6135,8 +5807,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>904.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -6175,8 +5845,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>794.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -6215,8 +5883,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>794.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -6255,8 +5921,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>784.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -6295,8 +5959,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>907.453</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -6335,8 +5997,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>332.453</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -6405,8 +6065,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>754.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -6445,8 +6103,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>904.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -6485,8 +6141,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>794.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -6525,8 +6179,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>794.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -6565,8 +6217,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>784.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -6605,8 +6255,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>907.453</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -6645,8 +6293,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>332.453</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -6715,8 +6361,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>754.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -6755,8 +6399,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>904.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -6795,8 +6437,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>794.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -6835,8 +6475,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>794.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -6875,8 +6513,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>784.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -6915,8 +6551,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>907.453</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -6955,8 +6589,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>332.453</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -7025,8 +6657,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>754.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -7065,8 +6695,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>904.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -7105,8 +6733,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>794.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -7145,8 +6771,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>794.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -7185,8 +6809,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>784.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -7225,8 +6847,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>907.453</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -7265,8 +6885,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>332.453</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -7335,8 +6953,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>754.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -7375,8 +6991,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>904.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -7415,8 +7029,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>794.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -7455,8 +7067,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>794.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -7495,8 +7105,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>784.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -7535,8 +7143,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>907.453</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -7575,8 +7181,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>332.453</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -7645,8 +7249,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>764.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -7685,8 +7287,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>919.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -7725,8 +7325,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -7765,8 +7363,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -7805,8 +7401,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>799.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -7845,8 +7439,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -7864,8 +7456,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -7913,8 +7503,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>764.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -7953,8 +7541,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>919.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -7993,8 +7579,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -8033,8 +7617,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -8073,8 +7655,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>799.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -8113,8 +7693,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -8132,8 +7710,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -8181,8 +7757,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>764.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -8221,8 +7795,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>919.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -8261,8 +7833,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -8301,8 +7871,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -8341,8 +7909,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>799.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -8381,8 +7947,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -8400,8 +7964,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -8449,8 +8011,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>764.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -8489,8 +8049,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>919.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -8529,8 +8087,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -8569,8 +8125,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -8609,8 +8163,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>799.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -8649,8 +8201,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -8668,8 +8218,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -8717,8 +8265,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>764.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -8757,8 +8303,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>919.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -8797,8 +8341,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -8837,8 +8379,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -8877,8 +8417,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>799.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -8917,8 +8455,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -8936,8 +8472,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -8985,8 +8519,6 @@
 		<Cartridge>
 			<CartridgeName>M118LR (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>764.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -9025,8 +8557,6 @@
 		<Cartridge>
 			<CartridgeName>M993 (ACE/RHS)</CartridgeName>
 			<BulletWeight_gr>127</BulletWeight_gr>
-			<BulletSpeed>919.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.359</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -9065,8 +8595,6 @@
 		<Cartridge>
 			<CartridgeName>M62 Tracer (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -9105,8 +8633,6 @@
 		<Cartridge>
 			<CartridgeName>M80 (RHS)</CartridgeName>
 			<BulletWeight_gr>146</BulletWeight_gr>
-			<BulletSpeed>807.53</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.2</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -9145,8 +8671,6 @@
 		<Cartridge>
 			<CartridgeName>Mk316 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>175</BulletWeight_gr>
-			<BulletSpeed>799.9</BulletSpeed>
-			<BulletTemperature>-10.0</BulletTemperature>
 			<BulletBC>0.243</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>
@@ -9185,8 +8709,6 @@
 		<Cartridge>
 			<CartridgeName>Mk319 Mod 0 (ACE)</CartridgeName>
 			<BulletWeight_gr>130</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.377</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G1</DragFunctionName>
@@ -9204,8 +8726,6 @@
 		<Cartridge>
 			<CartridgeName>7.62mm SD (ACE)</CartridgeName>
 			<BulletWeight_gr>200</BulletWeight_gr>
-			<BulletSpeed>1</BulletSpeed>
-			<BulletTemperature>1</BulletTemperature>
 			<BulletBC>0.235</BulletBC>
 			<BulletBCSpeed>0</BulletBCSpeed>
 			<DragFunctionName>G7</DragFunctionName>

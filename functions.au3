@@ -167,13 +167,13 @@ Func XMLAddRifleCartridge(ByRef $oXMLDoc, ByRef $cartridgeElement, $ammoType, $a
     $cartridgeElement.appendChild($newNode)
 
 
-    Local $bulletSpeedNode = $oXMLDoc.createElement("BulletSpeed")
-    $bulletSpeedNode.text = 1
-    $cartridgeElement.appendChild($bulletSpeedNode)
+    ;Local $bulletSpeedNode = $oXMLDoc.createElement("BulletSpeed")
+    ;$bulletSpeedNode.text = 1
+    ;$cartridgeElement.appendChild($bulletSpeedNode)
 
-    Local $bulletTempNode = $oXMLDoc.createElement("BulletTemperature")
-    $bulletTempNode.text = 1
-    $cartridgeElement.appendChild($bulletTempNode)
+    ;Local $bulletTempNode = $oXMLDoc.createElement("BulletTemperature")
+    ;$bulletTempNode.text = 1
+    ;$cartridgeElement.appendChild($bulletTempNode)
 
     Local $newNode = $oXMLDoc.createElement("BulletBC")
     $newNode.text = String($ACE_ballisticCoefficient)
@@ -270,15 +270,15 @@ Func XMLAddRifleCartridge(ByRef $oXMLDoc, ByRef $cartridgeElement, $ammoType, $a
     Local $thermoNode = $oXMLDoc.createElement("TermoSensitivity") ;#TODO
 	Local $hQuery
     _SQLite_Query(-1, $query, $hQuery) ; the query
-    $speedset = false;
+    ;$speedset = false;
     While _SQLite_FetchData($hQuery, $aRow) = $SQLITE_OK
         Local $thermoRow = $oXMLDoc.createElement("TermoRow") ;#TODO
 
-        If (Not $speedset) Then
-            $bulletSpeedNode.text = String($aRow[1])
-            $bulletTempNode.text = String($aRow[0])
-            $speedset = true
-        EndIf
+        ;If (Not $speedset) Then
+        ;    $bulletSpeedNode.text = String($aRow[1])
+        ;    $bulletTempNode.text = String($aRow[0])
+        ;    $speedset = true
+        ;EndIf
 
         Local $newNode = $oXMLDoc.createElement("TS_Temperature")
         $newNode.text = String($aRow[0])
