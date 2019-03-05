@@ -256,7 +256,8 @@ Func XMLAddRifleCartridge(ByRef $oXMLDoc,ByRef $cartridgeElement, $ammoType, $ac
         "INNER JOIN ammoMuzzleVel ON ammoMuzzleVel.id = ammoTypes.id" & @CRLF & _
         "WHERE" & @CRLF & _
         "ammoMuzzleVel.ACE_barrelLength = " & $ace_barrelLength  & @CRLF & _
-        " AND ammoTypes.id = "&$ammoType&" LIMIT 5"
+        " AND ammoTypes.id = "&$ammoType& _
+        " AND ammoVelocityShift.temperature IN (-10,0,10,20,25)"
 
     Local $thermoNode = $oXMLDoc.createElement("TermoSensitivity") ;#TODO
 	Local $hQuery
