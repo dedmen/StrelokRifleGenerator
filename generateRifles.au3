@@ -32,6 +32,13 @@ AddMagazineWellToRifle("rhs_weap_m82a1", "CBA_50BMG_M107")
 InsertRifle("M107 (RHS)", "rhs_weap_M107", 736.6, 381, 4.18639)
 AddMagazineWellToRifle("rhs_weap_M107", "CBA_50BMG_M107")
 
+InsertRifle("AI AWC-M (HLC)", "hlc_rifle_awcovert", 305, 203, 4) ;#TODO heightAboveBore is incorrect
+AddMagazineWellToRifle("hlc_rifle_awcovert", "CBA_300WM_AICS")
+
+InsertRifle("AI AWM (HLC)", "hlc_rifle_awmagnum", 660, 279, 4) ;#TODO heightAboveBore is incorrect
+AddMagazineWellToRifle("hlc_rifle_awmagnum", "CBA_300WM_AICS")
+
+
 
 ; "rhsusf_20Rnd_762x51_SR25_m118_special_Mag","rhsusf_20Rnd_762x51_SR25_m993_Mag","rhsusf_20Rnd_762x51_SR25_m62_Mag"
 Local $barrelLengths[4] = [406.4,508,609.6,660.4]
@@ -90,6 +97,36 @@ InsertAmmoTypeSeperate("Mk 211 HEIAP (RHS)", "rhsusf_ammo_127x99_mk211", 12.954,
 AddAmmoToMagazineWell("CBA_50BMG_M107", "rhsusf_ammo_127x99_M33_Ball");
 AddAmmoToMagazineWell("CBA_50BMG_M107", "rhsusf_ammo_127x99_mk211");
 
+; HLC 300wm
+; "hlc_5rnd_300WM_FMJ_AWM", "hlc_5rnd_300WM_mk248_AWM", "hlc_5rnd_300WM_BTSP_AWM", "hlc_5rnd_300WM_AP_AWM", "hlc_5rnd_300WM_SBT_AWM", "hlc_5rnd_300WM_T_AWM"
+
+;Load Data - MEN S230430 FMJ
+Local $barrelLengths[2] = [305, 660.4]
+Local $muzzleVelocities[2] = [690, 990]
+Local $muzzleVelocityShifts[11] = [-5.3, -5.1, -4.6, -4.2, -3.4, -2.6, -1.4, -0.3, 1.4, 3.0, 5.2]
+InsertAmmoTypeSeperate(".300WM FMJ AWM (HLC)", "HLC_300WM_FMJ", 7.823, 7, 0.250, 13.0, 37.821, $barrelLengths, $muzzleVelocities, $muzzleVelocityShifts)
+AddAmmoToMagazineWell("CBA_300WM_AICS", "HLC_300WM_FMJ")
+
+InsertAmmoTypeSeperate(".300WM Tracer AWM (HLC)", "HLC_300WM_Tracer", 7.823, 7, 0.250, 13.0, 37.821, $barrelLengths, $muzzleVelocities, $muzzleVelocityShifts)
+AddAmmoToMagazineWell("CBA_300WM_AICS", "HLC_300WM_Tracer")
+
+Local $muzzleVelocities[2] = [670, 940] ;This has barrel length 660 instead of 660.4, screw that
+InsertAmmoTypeSeperate(".300WM Soft-Point AWM (HLC)", "HLC_300WM_BTSP", 7.823, 7, 0.268, 12.31179, 35.1282, $barrelLengths, $muzzleVelocities, $muzzleVelocityShifts)
+AddAmmoToMagazineWell("CBA_300WM_AICS", "HLC_300WM_BTSP")
+;Yes this is the same even though this is supposed to be subsonic
+InsertAmmoTypeSeperate(".300WM Subsonic AWM (HLC)", "HLC_300WM_S_BT", 7.823, 7, 0.268, 12.31179, 35.1282, $barrelLengths, $muzzleVelocities, $muzzleVelocityShifts)
+AddAmmoToMagazineWell("CBA_300WM_AICS", "HLC_300WM_S_BT")
+
+;MEN DM131 AP (Tungsten-Carbide penetrator in a solid aluminium slug)
+Local $muzzleVelocities[2] = [614, 861]
+InsertAmmoTypeSeperate(".300WM AP AWM (HLC)", "HLC_300WM_AP", 7.823, 7, 0.268, 12.8, 37.821, $barrelLengths, $muzzleVelocities, $muzzleVelocityShifts)
+AddAmmoToMagazineWell("CBA_300WM_AICS", "HLC_300WM_AP")
+
+;Mk248 Mod 1 OTM (220 Grain SMK Boat-Tailed Hollowpoint, as Spec'd by Black Hills)
+Local $barrelLengths[3] = [508.0, 609.6, 660.4]
+Local $muzzleVelocities[3] = [847, 867, 877]
+InsertAmmoTypeSeperate("300WM Mk.248 Mod1 AWM (HLC)", "HLC_300WM_BTHP", 7.823, 7, 0.310, 14.256, 37.821, $barrelLengths, $muzzleVelocities, $muzzleVelocityShifts)
+AddAmmoToMagazineWell("CBA_300WM_AICS", "HLC_300WM_BTHP")
 
 
 ;InsertAmmoTypeSeperate("", "", 7.823, , , , [], [], [])
