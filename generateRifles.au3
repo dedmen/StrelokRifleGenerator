@@ -39,6 +39,24 @@ InsertRifle("AI AWM (HLC)", "hlc_rifle_awmagnum", 660, 279, 4) ;#TODO heightAbov
 AddMagazineWellToRifle("hlc_rifle_awmagnum", "CBA_300WM_AICS")
 
 
+InsertRifle("TAC50 (R3F)", "R3F_TAC50", 736.6, 381, 2.99563)
+AddMagazineWellToRifle("R3F_TAC50", "R3F_TAC50")
+
+Local $barrelLengths[1] = [736.6]
+Local $muzzleVelocities[1] = [820]
+Local $muzzleVelocityShifts[11] = [-18.91,-17.83,-15.21,-12.48,-9.34,-5.16,0,6.11,13.6,22.81,33.83]
+InsertAmmoTypeSeperate("TAC50 (R3F)", "R3F_127x99_Ball3", 12.954, 1, 0.67, 41.9256, 58.674, $barrelLengths, $muzzleVelocities, $muzzleVelocityShifts)
+AddAmmoToMagazineWell("R3F_TAC50", "R3F_127x99_Ball3")
+
+InsertRifle("T-500 (RHS)", "rhs_weap_t5000", 698.5, 254, 2.12198)
+AddMagazineWellToRifle("rhs_weap_t5000", "RHS_T5000")
+
+Local $barrelLengths[3] = [508,660.4,711.2]
+Local $muzzleVelocities[3] = [880,915,925]
+Local $muzzleVelocityShifts[11] = [-26.55,-25.47,-22.85,-20.12,-16.98,-12.8,-7.64,-1.53,5.96,15.17,26.19]
+InsertAmmoTypeSeperate("338 Ball (Vanilla)", "B_338_Ball", 8.585, 7, 0.322, 16.2, 39.573, $barrelLengths, $muzzleVelocities, $muzzleVelocityShifts)
+AddAmmoToMagazineWell("RHS_T5000", "B_338_Ball")
+
 
 ; "rhsusf_20Rnd_762x51_SR25_m118_special_Mag","rhsusf_20Rnd_762x51_SR25_m993_Mag","rhsusf_20Rnd_762x51_SR25_m62_Mag"
 Local $barrelLengths[4] = [406.4,508,609.6,660.4]
