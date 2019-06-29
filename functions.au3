@@ -7,7 +7,7 @@ $logInterpolate = false;Log velocity interpolation
 
 Local $SQLiteDllName
 
-If @AutoItX64 Then 
+If @AutoItX64 Then
     $SQLiteDllName = "sqlite3_x64_302700200.dll"
 Else
     $SQLiteDllName = "sqlite3_302700200.dll"
@@ -128,7 +128,7 @@ Func AddAmmoToMagazineWell($magazineWellName, $ammoType)
    _SQLite_QuerySingleRow(-1, $query, $existCheckResult)
 
    If ($existCheckResult[0] > 0) Then
-	  ConsoleWriteError("Ammmo-MagWell Connection '"&$magazineWellName&"'->'"&$ammoType&"' already exists, won't insert"&@CRLF)
+	  ConsoleWriteError("Ammo-MagWell Connection '"&$magazineWellName&"'->'"&$ammoType&"' already exists, won't insert"&@CRLF)
 	  Return
    EndIf
 
@@ -618,7 +618,7 @@ Func GenerateRiflesSRL()
             Local $rifleNode = $oXMLDoc.createElement("Rifle")
             XMLAddRifleScopeCombi($oXMLDoc, $rifleNode, $aRow[0], $aScopeRow[0])
             $StrelokNode.appendChild($rifleNode)
-        WEnd        
+        WEnd
     WEnd
     FileDelete("rifles.srl")
 
