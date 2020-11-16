@@ -55,7 +55,7 @@ Local $muzzleVelocityShifts[11] = [-18.91,-17.83,-15.21,-12.48,-9.34,-5.16,0,6.1
 InsertAmmoTypeSeperate("TAC50 (R3F)", "R3F_127x99_Ball3", 12.954, 1, 0.67, 41.9256, 58.674, $barrelLengths, $muzzleVelocities, $muzzleVelocityShifts)
 AddAmmoToMagazineWell("R3F_TAC50", "R3F_127x99_Ball3")
 
-InsertRifle("T-500 (RHS)", "rhs_weap_t5000", 698.5, 254, 2.12198)
+InsertRifle("T-5000 (RHS)", "rhs_weap_t5000", 698.5, 254, 2.12198)
 AddMagazineWellToRifle("rhs_weap_t5000", "RHS_T5000")
 
 Local $barrelLengths[3] = [508,660.4,711.2]
